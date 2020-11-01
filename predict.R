@@ -213,3 +213,4 @@ pol_map(pred_st, reconst_all)
 # Exporting all predicted maps as figures
 export_map(reconst_all)
 
+message("Done!")
