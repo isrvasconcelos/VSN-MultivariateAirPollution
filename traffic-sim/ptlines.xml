@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Sun Nov 22 16:16:18 2020 by Eclipse SUMO netconvert Version v1_7_0+0890-63ce6de543
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <osm-files value="map.osm"/>
+    </input>
+
+    <output>
+        <output-file value="saopaulo.net.xml"/>
+        <ptstop-output value="busstops.xml"/>
+        <ptline-output value="ptlines.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+    <formats>
+        <osm.stop-output.length value="20"/>
+    </formats>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<ptLines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/ptlines_file.xsd">
+    <ptLine id="10317993" name="Ônibus T25: Vila Suíça =&gt; UniABC" line="T25" type="bus" vClass="bus" completeness="0.04">
+        <route edges="237521935#0 237521935#1 237521935#2 237521935#3 237521935#4 93995204 93995206#0 93995206#1 93995206#2 93995206#3 93995206#4 724451272 747282960#0 747282960#1 93995207#0 93995207#1"/>
+        <busStop id="6992430972" name=""/>
+    </ptLine>
+    <ptLine id="10318330" name="Ônibus T25: UniABC =&gt; Vila Suíça" line="T25" type="bus" vClass="bus" completeness="0.11">
+        <route edges="93997238#0 93997238#1 93997238#2 93997238#3 93997238#4 93997238#5 93997238#6 93997238#7 -237521935#4 -237521935#3 -237521935#2 -237521935#1 -237521935#0"/>
+        <busStop id="6992430971" name=""/>
+        <busStop id="6992430973" name=""/>
+        <busStop id="6992430974" name=""/>
+        <busStop id="-6992430975" name=""/>
+    </ptLine>
+    <ptLine id="2144048" name="Linha 10 - Turquesa: Rio Grande da Serra ⇒ Brás" line="10" type="train" vClass="rail" completeness="0.27">
+        <route edges="218651915 218801092#0 218801092#1 218801092#2"/>
+        <busStop id="2278811014" name="Prefeito Saladino - Santo André"/>
+        <busStop id="2280117742" name="Utinga"/>
+        <busStop id="2281353272" name="São Caetano do Sul"/>
+    </ptLine>
+    <ptLine id="2597666" name="Ônibus B19: Rodoviária =&gt; Jardim Aclimação" line="B19" type="bus" vClass="bus" completeness="0.06">
+        <route edges="758913936#0 758913936#1 758913934#0 758913934#1 758913934#2 758913934#3 313159264#0 313159264#1 313159264#2 313159264#3 94016889 432967930#0 432967930#1 94003572#0 94003572#1 94003572#2 94003572#3 94003572#4 94003572#5 94012417#0 94012417#1 94012417#2 94012417#3 94012417#4 94012417#5 94012417#6 94012417#7 94012417#8 94012417#9 726839598 -726839600#1 -726839600#0"/>
+        <busStop id="5616176792" name=""/>
+        <busStop id="6465699087" name=""/>
+    </ptLine>
+    <ptLine id="420129" name="Linha 10 - Turquesa: Brás ⇒ Rio Grande da Serra" line="10" type="train" vClass="rail" completeness="0.36">
+        <route edges="27017560 218801097#0 218801097#1 218801097#2"/>
+        <busStop id="656349268" name="São Caetano do Sul"/>
+        <busStop id="656351141" name="Utinga"/>
+        <busStop id="2278811013" name="Prefeito Saladino - Santo André"/>
+        <busStop id="656353782" name="Prefeito Celso Daniel - Santo André"/>
+    </ptLine>
+</ptLines>
