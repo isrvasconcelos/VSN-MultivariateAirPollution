@@ -21,7 +21,7 @@ sumo -c saopaulo.sumo.cfg --fcd-output trace.xml
 #sumo -c osm.sumocfg --fcd-output trace.xml
 
 
-######### SET BUSLINES.ROU WITH 
+######### SET BUSLINES.ROU WITH or osm_pt.rou.xml
 # <param key="has.fcd.device" value="true"/>
 # below each bus <flow>
 sumo -c  saopaulo.sumo.cfg --device.fcd.probability 0 --fcd-output trace.xml
