@@ -346,7 +346,7 @@ predict_series <- function(snapshot_series, var_names, coords) {
 		if(is.element("SO2", var_names))
 			airpol.g <- gstat(airpol.g, 
 					  "SO2", 
-					  log(unlist(airpol_snapshot$NO2))~1,
+					  log(unlist(airpol_snapshot$SO2))~1,
 					  airpol_snapshot, 
 					  nmax = 10)
 
@@ -542,12 +542,13 @@ pol_map <- function(pred_st, reconst_series) {
 		flush.console()
 	}
 
+	# DOUBLE CHECK HERE (!!)
 	# Exporting files to parse as input to network simulator
-	write.csv(pol_map_CO, "pollutant_map/pol_map_CO.csv")
-	write.csv(pol_map_MP10, "pollutant_map/pol_map_MP10.csv")
-	write.csv(pol_map_O3, "pollutant_map/pol_map_O3.csv")
-	write.csv(pol_map_NO2, "pollutant_map/pol_map_NO2.csv")
-	write.csv(pol_map_SO2, "pollutant_map/pol_map_SO2.csv")
+	write.csv(pol_map_CO, "maps/pol_map_CO.csv", row.names=FALSE)
+	write.csv(pol_map_MP10, "maps/pol_map_MP10.csv", row.names=FALSE)
+	write.csv(pol_map_O3, "maps/pol_map_O3.csv", row.names=FALSE)
+	write.csv(pol_map_NO2, "maps/pol_map_NO2.csv", row.names=FALSE)
+	write.csv(pol_map_SO2, "maps/pol_map_SO2.csv", row.names=FALSE)
 
 	message("\nDone!")
 

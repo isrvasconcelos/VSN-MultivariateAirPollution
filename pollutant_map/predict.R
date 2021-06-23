@@ -16,6 +16,7 @@ var_name <- c("CO", "MP10", "O3", "NO2", "SO2")
 station_id <- c("X1","X2","X3","X4","X5","X8","X12","X16","X27","X47")
 
 station_coord <- sectorize_coord(map="spmap.png")
+write.csv(station_coord, "../environment/station_coords.csv", row.names=FALSE) 
 station_id_coord <- list()
 
 for(i in 1:length(station_id)) 
@@ -24,7 +25,7 @@ for(i in 1:length(station_id))
 # -----------------------------------------------------------------
 # Assign region of interest
 sp_coords <- map_coords(map="spmap.png")
-
+write.csv(sp_coords, "../environment/spcoords_25x25.csv", row.names=FALSE) 
 
 # -----------------------------------------------------------------
 # Assemblying combinations for all stations and variables
@@ -211,6 +212,6 @@ reconst_all <- predict_series( snapshot_series_all, var_name, sp_coords )
 pol_map(pred_st, reconst_all)
 
 # Exporting all predicted maps as figures
-export_map(reconst_all)
+#export_map(reconst_all)
 
 message("Done.")
