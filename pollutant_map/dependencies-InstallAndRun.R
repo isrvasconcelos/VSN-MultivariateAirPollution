@@ -12,9 +12,12 @@ usePackage <- function(p)  {
 	suppressMessages(require(p, character.only = TRUE))
 }
 
-p <- c("gstat","geobr","hash","sp","tidyr","EnvStats")
+p <- c("gstat","geobr","hash","sp","tidyr","EnvStats" ,"XML", "png")
 
 for(i in p)
 	usePackage(i)
+
+
+# apt install libudunits2-dev
 
 

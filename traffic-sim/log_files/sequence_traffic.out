@@ -1,0 +1,229 @@
+Slot available at SUMO Process queue: Triggering bbox_5.
+Slot available at SUMO Process queue: Triggering bbox_6.
+Triggered entire bbox sequence for Seed: 1, Number of vehicles: 60000.
+Slot available at SUMO Process queue: Triggering bbox_1.
+Slot available at SUMO Process queue: Triggering bbox_2.
+Slot available at SUMO Process queue: Triggering bbox_3.
+Slot available at SUMO Process queue: Triggering bbox_4.
+Slot available at SUMO Process queue: Triggering bbox_5.
+Slot available at SUMO Process queue: Triggering traffic in bbox sequence.
+Slot available at SUMO Process queue. Triggering bbox_1.
+Slot available at SUMO Process queue. Triggering bbox_2.
+Slot available at SUMO Process queue: Triggering bbox_6.
+Triggered entire bbox sequence for Seed: 2, Number of vehicles: 15000.
+Free RAM (%): 93.0138 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 2. Car rate: 0.2.
+Free RAM (%): 92.2998 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 2. Car rate: 0.2.
+Free RAM (%): 91.4679 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 2. Car rate: 0.2.
+Free RAM (%): 89.9871 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 2. Car rate: 0.2.
+Free RAM (%): 87.9973 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 2. Car rate: 0.2.
+Free RAM (%): 85.3509 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 2. Car rate: 0.2.
+Free RAM (%): 81.7219 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 2. Car rate: 0.1.
+Free RAM (%): 77.9782 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 2. Car rate: 0.1.
+Free RAM (%): 75.0182 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 2. Car rate: 0.1.
+Free RAM (%): 72.1871 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 2. Car rate: 0.1.
+Free RAM (%): 48.7047 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 2. Car rate: 0.1.
+Free RAM (%): 43.2505 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 2. Car rate: 0.1.
+Free RAM (%): 37.312 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 2. Car rate: 0.05.
+Free RAM (%): 37.3368 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 2. Car rate: 0.05.
+Free RAM (%): 36.4971 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 2. Car rate: 0.05.
+Free RAM (%): 40.9425 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 2. Car rate: 0.05.
+Free RAM (%): 40.6103 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 2. Car rate: 0.05.
+Free RAM (%): 42.0662 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 2. Car rate: 0.05.
+Free RAM (%): 40.0903 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 3. Car rate: 0.2.
+Free RAM (%): 40.3899 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 3. Car rate: 0.2.
+Free RAM (%): 46.7615 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 3. Car rate: 0.2.
+Free RAM (%): 46.3967 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 3. Car rate: 0.2.
+Free RAM (%): 40.3946 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 3. Car rate: 0.2.
+Free RAM (%): 34.4421 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 3. Car rate: 0.2.
+Free RAM (%): 37.7606 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 3. Car rate: 0.1.
+Free RAM (%): 35.9834 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 3. Car rate: 0.1.
+Free RAM (%): 34.8534 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 3. Car rate: 0.1.
+Free RAM (%): 39.516 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 3. Car rate: 0.1.
+Free RAM (%): 37.4548 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 3. Car rate: 0.1.
+Free RAM (%): 40.7314 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 3. Car rate: 0.1.
+Free RAM (%): 38.9154 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 3. Car rate: 0.05.
+Free RAM (%): 41.5292 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 3. Car rate: 0.05.
+Free RAM (%): 40.7314 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 3. Car rate: 0.05.
+Free RAM (%): 39.485 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 3. Car rate: 0.05.
+Free RAM (%): 39.1358 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 3. Car rate: 0.05.
+Free RAM (%): 38.0508 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 3. Car rate: 0.05.
+Free RAM (%): 38.1238 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 4. Car rate: 0.2.
+Free RAM (%): 38.1595 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 4. Car rate: 0.2.
+Free RAM (%): 45.6998 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 4. Car rate: 0.2.
+Free RAM (%): 44.4022 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 4. Car rate: 0.2.
+Free RAM (%): 45.2838 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 4. Car rate: 0.2.
+Free RAM (%): 40.081 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 4. Car rate: 0.2.
+Free RAM (%): 34.9186 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 4. Car rate: 0.1.
+Free RAM (%): 34.4204 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 4. Car rate: 0.1.
+Free RAM (%): 40.0158 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 4. Car rate: 0.1.
+Free RAM (%): 38.2821 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 4. Car rate: 0.1.
+Free RAM (%): 38.1067 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 4. Car rate: 0.1.
+Free RAM (%): 39.4648 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 4. Car rate: 0.1.
+Free RAM (%): 34.7711 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 4. Car rate: 0.05.
+Free RAM (%): 40.6739 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 4. Car rate: 0.05.
+Free RAM (%): 39.8544 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 4. Car rate: 0.05.
+Free RAM (%): 38.2712 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 4. Car rate: 0.05.
+Free RAM (%): 38.9619 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 4. Car rate: 0.05.
+Free RAM (%): 38.1734 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 4. Car rate: 0.05.
+Free RAM (%): 37.8009 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 5. Car rate: 0.2.
+Free RAM (%): 38.2014 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 5. Car rate: 0.2.
+Free RAM (%): 37.2096 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 5. Car rate: 0.2.
+Free RAM (%): 44.8523 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 5. Car rate: 0.2.
+Free RAM (%): 37.4129 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 5. Car rate: 0.2.
+Free RAM (%): 39.3313 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 5. Car rate: 0.2.
+Free RAM (%): 34.0277 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 5. Car rate: 0.1.
+Free RAM (%): 35.2166 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 5. Car rate: 0.1.
+Free RAM (%): 34.366 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 5. Car rate: 0.1.
+Free RAM (%): 39.2755 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 5. Car rate: 0.1.
+Free RAM (%): 38.0524 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 5. Car rate: 0.1.
+Free RAM (%): 38.0881 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 5. Car rate: 0.1.
+Free RAM (%): 34.2434 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 5. Car rate: 0.05.
+Free RAM (%): 39.9957 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 5. Car rate: 0.05.
+Free RAM (%): 39.2103 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 5. Car rate: 0.05.
+Free RAM (%): 37.5277 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 5. Car rate: 0.05.
+Free RAM (%): 37.8071 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 5. Car rate: 0.05.
+Free RAM (%): 37.7109 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 5. Car rate: 0.05.
+Free RAM (%): 37.1149 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 6. Car rate: 0.2.
+Free RAM (%): 37.3275 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 6. Car rate: 0.2.
+Free RAM (%): 45.2466 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 6. Car rate: 0.2.
+Free RAM (%): 43.9474 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 6. Car rate: 0.2.
+Free RAM (%): 37.0202 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 6. Car rate: 0.2.
+Free RAM (%): 38.653 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 6. Car rate: 0.2.
+Free RAM (%): 35.6108 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 6. Car rate: 0.1.
+Free RAM (%): 34.0152 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 6. Car rate: 0.1.
+Free RAM (%): 39.8498 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 6. Car rate: 0.1.
+Free RAM (%): 38.1207 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 6. Car rate: 0.1.
+Free RAM (%): 36.1712 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 6. Car rate: 0.1.
+Free RAM (%): 38.4342 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 6. Car rate: 0.1.
+Free RAM (%): 36.4521 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 6. Car rate: 0.05.
+Free RAM (%): 39.5083 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 6. Car rate: 0.05.
+Free RAM (%): 38.7167 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 6. Car rate: 0.05.
+Free RAM (%): 37.09 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 6. Car rate: 0.05.
+Free RAM (%): 36.3854 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 6. Car rate: 0.05.
+Free RAM (%): 36.6632 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 6. Car rate: 0.05.
+Free RAM (%): 37.596 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 7. Car rate: 0.2.
+Free RAM (%): 36.3605 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 7. Car rate: 0.2.
+Free RAM (%): 44.6893 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 7. Car rate: 0.2.
+Free RAM (%): 43.3033 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 7. Car rate: 0.2.
+Free RAM (%): 36.4412 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 7. Car rate: 0.2.
+Free RAM (%): 38.3333 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 7. Car rate: 0.2.
+Free RAM (%): 35.2135 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 7. Car rate: 0.1.
+Free RAM (%): 33.4968 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 7. Car rate: 0.1.
+Free RAM (%): 39.3298 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 7. Car rate: 0.1.
+Free RAM (%): 37.6007 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 7. Car rate: 0.1.
+Free RAM (%): 35.6528 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 7. Car rate: 0.1.
+Free RAM (%): 38.1672 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 7. Car rate: 0.1.
+Free RAM (%): 36.286 
+Slot available at SUMO Process queue. Triggering bbox_1. Seed: 7. Car rate: 0.05.
+Free RAM (%): 38.6934 
+Slot available at SUMO Process queue. Triggering bbox_2. Seed: 7. Car rate: 0.05.
+Free RAM (%): 37.8754 
+Slot available at SUMO Process queue. Triggering bbox_3. Seed: 7. Car rate: 0.05.
+Free RAM (%): 36.1789 
+Slot available at SUMO Process queue. Triggering bbox_4. Seed: 7. Car rate: 0.05.
+Free RAM (%): 34.1022 
+Slot available at SUMO Process queue. Triggering bbox_5. Seed: 7. Car rate: 0.05.
+Free RAM (%): 36.463 
+Slot available at SUMO Process queue. Triggering bbox_6. Seed: 7. Car rate: 0.05.

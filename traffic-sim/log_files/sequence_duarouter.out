@@ -1,0 +1,500 @@
+Generating routes: Seed: 1, Car rate: 0.2.
+Free RAM (%): 91.1062 
+Duarouter pids
+
+Free RAM (%): 91.0969 
+Duarouter pids
+
+Free RAM (%): 89.5634 
+Duarouter pids
+15720 15768
+Free RAM (%): 87.2398 
+Duarouter pids
+15768 16456 18246
+Free RAM (%): 80.19 
+Duarouter pids
+16456 18721
+Free RAM (%): 62.8789 
+Duarouter pids
+16456 21509 21642 23112 23153
+
+Generating routes: Seed: 1, Car rate: 0.1.
+Free RAM (%): 60.8487 
+Duarouter pids
+6813 21642 23153 26293
+Free RAM (%): 57.8376 
+Duarouter pids
+21642 23153 24363 24435 26293
+Free RAM (%): 52.9064 
+Duarouter pids
+21642 23153 24363 24435 26293
+Free RAM (%): 59.2516 
+Duarouter pids
+17416 21642 24428 24435 30721
+Free RAM (%): 52.568 
+Duarouter pids
+2508 4247 17416 24428 24435
+Free RAM (%): 52.5184 
+Duarouter pids
+2508 4247 11443 11548 11712
+
+Generating routes: Seed: 1, Car rate: 0.05.
+Free RAM (%): 56.8861 
+Duarouter pids
+2508 11548 11712 28084
+Free RAM (%): 52.4144 
+Duarouter pids
+2508 11548 11712 25209 28084
+Free RAM (%): 59.8367 
+Duarouter pids
+2508 11548 25209 28084 29722
+Free RAM (%): 58.9955 
+Duarouter pids
+695 11548 24231 25209 28084
+Free RAM (%): 52.3042 
+Duarouter pids
+10247 10248 12850 24231 25209
+Free RAM (%): 52.2948 
+Duarouter pids
+10247 12850 24231 25061 26871
+
+Generating routes: Seed: 2, Car rate: 0.2.
+Free RAM (%): 52.2855 
+Duarouter pids
+414 10247 24231 25061 26871
+Free RAM (%): 52.18 
+Duarouter pids
+414 770 10247 25061 26871
+Free RAM (%): 52.1722 
+Duarouter pids
+414 770 10247 25061 26871
+Free RAM (%): 52.0853 
+Duarouter pids
+414 770 10247 25061 26871
+Free RAM (%): 51.9968 
+Duarouter pids
+414 770 10247 14249 25061
+Free RAM (%): 53.237 
+Duarouter pids
+770 13078 25449 30582 31094
+
+Generating routes: Seed: 2, Car rate: 0.1.
+Free RAM (%): 53.3845 
+Duarouter pids
+770 13078 19708 30582 31094
+Free RAM (%): 51.8866 
+Duarouter pids
+3883 13078 25343 30582 31094
+Free RAM (%): 52.2731 
+Duarouter pids
+3883 13078 25343 30582 31094
+Free RAM (%): 57.6497 
+Duarouter pids
+3883 13601 25343 30582 31094
+Free RAM (%): 49.7307 
+Duarouter pids
+3883 22519 22720 25343 31094
+Free RAM (%): 52.388 
+Duarouter pids
+6927 21416 22720 25343 31094
+
+Generating routes: Seed: 2, Car rate: 0.05.
+Free RAM (%): 52.2747 
+Duarouter pids
+6927 22720 25343 31094 31487
+Free RAM (%): 52.2421 
+Duarouter pids
+6927 22720 25343 31487 32130
+Free RAM (%): 52.1163 
+Duarouter pids
+3946 22720 25343 31487 32130
+Free RAM (%): 52.0543 
+Duarouter pids
+2378 3946 20384 20653 25343
+Free RAM (%): 57.8251 
+Duarouter pids
+2378 10759 20653 25343
+Free RAM (%): 57.6591 
+Duarouter pids
+2378 10759 19942 20100 20653
+
+Generating routes: Seed: 3, Car rate: 0.2.
+Free RAM (%): 99.1572 
+Duarouter pids
+
+Free RAM (%): 99.0268 
+Duarouter pids
+
+Free RAM (%): 97.3815 
+Duarouter pids
+1864 1865
+Free RAM (%): 95.8822 
+Duarouter pids
+2003 2206
+Free RAM (%): 85.4114 
+Duarouter pids
+2003 2624 2631
+Free RAM (%): 73.2162 
+Duarouter pids
+2631 3235 6385
+
+Generating routes: Seed: 3, Car rate: 0.1.
+Free RAM (%): 73.7734 
+Duarouter pids
+2631 3235 10007
+Free RAM (%): 72.3113 
+Duarouter pids
+16258 18511 22665
+Free RAM (%): 75.3876 
+Duarouter pids
+701 18511 22665
+Free RAM (%): 85.9267 
+Duarouter pids
+701 848
+Free RAM (%): 70.9733 
+Duarouter pids
+701 3691 7422
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 72.2958 
+Duarouter pids
+701 3691 9616
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 3, Car rate: 0.05.
+Free RAM (%): 73.5344 
+Duarouter pids
+3691 9616 16539
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 72.0474 
+Duarouter pids
+4164 4649 25152
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 78.2684 
+Duarouter pids
+4649 25152 32217
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 85.6039 
+Duarouter pids
+1606 25152
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 77.3759 
+Duarouter pids
+7376 9396 25152
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 72.1499 
+Duarouter pids
+7376 15619 25152
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 4, Car rate: 0.2.
+Free RAM (%): 73.3994 
+Duarouter pids
+7376 15619 22610
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 71.5383 
+Duarouter pids
+3686 9707 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 71.3303 
+Duarouter pids
+3686 9707 20590 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 77.4427 
+Duarouter pids
+9707 21241 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 62.5933 
+Duarouter pids
+9707 23331 23351 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 63.8661 
+Duarouter pids
+9707 23351 25746 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 4, Car rate: 0.1.
+Free RAM (%): 65.1125 
+Duarouter pids
+5491 8088 30888 32140
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 63.8847 
+Duarouter pids
+8088 12225 12393 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 63.759 
+Duarouter pids
+8088 12225 12393 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 77.3682 
+Duarouter pids
+12393 24556 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 62.4552 
+Duarouter pids
+26585 29800 30499 30888
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 66.514 
+Duarouter pids
+1561 4759 26585 29800
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 4, Car rate: 0.05.
+Free RAM (%): 65.0705 
+Duarouter pids
+1561 5396 26585 29800
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 64.9091 
+Duarouter pids
+1561 5396 12417 26585
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 64.0663 
+Duarouter pids
+1561 5396 12417 29956
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 54.918 
+Duarouter pids
+12417 29956 32438 32452
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.5619 
+Duarouter pids
+28053 28708 29956 32452
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.6908 
+Duarouter pids
+10679 28053 28708 29956
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 5, Car rate: 0.2.
+Free RAM (%): 49.5662 
+Duarouter pids
+10679 22713 28053 28708
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 49.307 
+Duarouter pids
+1653 10679 22713 28708
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 49.3178 
+Duarouter pids
+1653 10679 22713 28708
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 49.1781 
+Duarouter pids
+1653 10679 22713 28708
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 49.0384 
+Duarouter pids
+1653 1853 7379 29896
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 54.6991 
+Duarouter pids
+1853 7379 16583 29896
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 5, Car rate: 0.1.
+Free RAM (%): 61.7909 
+Duarouter pids
+1853 11317 16583 29896
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 63.9313 
+Duarouter pids
+2357 16583 28045 32459
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 67.7014 
+Duarouter pids
+6274 16583 28045 32459
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 60.0075 
+Duarouter pids
+9570 16583 28045 32459
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 53.9339 
+Duarouter pids
+13168 16583 19392 24706
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 47.9907 
+Duarouter pids
+13168 16583 24706 25854
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 5, Car rate: 0.05.
+Free RAM (%): 48.9934 
+Duarouter pids
+5593 13168 16583 25854
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.8491 
+Duarouter pids
+3613 5593 6589 24473
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.7094 
+Duarouter pids
+3613 6589 11831 24473
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.475 
+Duarouter pids
+3613 6589 11831 19041
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 54.2474 
+Duarouter pids
+19041 23495 23551
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.6023 
+Duarouter pids
+19041 23551 27144 32334
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 6, Car rate: 0.2.
+Free RAM (%): 48.4207 
+Duarouter pids
+4947 19041 23551 27144
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.1103 
+Duarouter pids
+4947 16506 23551 27144
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.1848 
+Duarouter pids
+4947 16506 23551 27144
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.905 
+Duarouter pids
+4947 16506 23551 27144
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 48.2174 
+Duarouter pids
+1980 16506 19800 24547
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 47.9845 
+Duarouter pids
+1980 6570 19800 24547
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 6, Car rate: 0.1.
+Free RAM (%): 48.4176 
+Duarouter pids
+1980 3573 6570 19800
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 52.9855 
+Duarouter pids
+1980 6570 15985 22963
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 52.762 
+Duarouter pids
+1980 6570 15985 22963
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 59.4223 
+Duarouter pids
+5483 6570 15985 22963
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 51.1664 
+Duarouter pids
+6570 10674 14355 17099
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 59.5434 
+Duarouter pids
+6570 10674 14355 21837
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 6, Car rate: 0.05.
+Free RAM (%): 60.4824 
+Duarouter pids
+1623 6570 10674 21837
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 51.8618 
+Duarouter pids
+1623 10674 13554 21837
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 51.5374 
+Duarouter pids
+7919 13554 30224 30378
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 45.9124 
+Duarouter pids
+4900 7919 30224 30378
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 43.3902 
+Duarouter pids
+4900 13520 19710 30378
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 47.7424 
+Duarouter pids
+4900 13520 21461 26444
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 7, Car rate: 0.2.
+Free RAM (%): 45.7091 
+Duarouter pids
+4900 13520 21461 27585
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 41.0589 
+Duarouter pids
+7636 13520 21461 27585
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 40.9968 
+Duarouter pids
+7636 13520 21461 27585
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 40.8012 
+Duarouter pids
+7636 13520 21461 27585
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 39.6402 
+Duarouter pids
+7636 13144 13534 27250
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 39.0876 
+Duarouter pids
+13144 13534 27250 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 7, Car rate: 0.1.
+Free RAM (%): 39.4276 
+Duarouter pids
+13144 27250 27936 28651
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 37.922 
+Duarouter pids
+8004 16326 27250 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 37.804 
+Duarouter pids
+8004 16326 27250 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 45.2357 
+Duarouter pids
+4873 6333 27250 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 36.4754 
+Duarouter pids
+6333 7703 7722 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 37.6054 
+Duarouter pids
+6333 7722 14203 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+
+Generating routes: Seed: 7, Car rate: 0.05.
+Free RAM (%): 39.679 
+Duarouter pids
+7722 14203 25959 27936
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 39.5331 
+Duarouter pids
+5917 7722 14203 25959
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 47.2814 
+Duarouter pids
+5917 20271 22835 23017
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 44.4845 
+Duarouter pids
+15973 20271 22835 23017
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 38.6779 
+Duarouter pids
+15973 18539 22835
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+Free RAM (%): 39.7225 
+Duarouter pids
+986 15973 18539
+Slot available at Duarouter process queue. Ready to trigger new tasks.
+

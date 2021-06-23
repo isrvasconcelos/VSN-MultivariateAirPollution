@@ -1,0 +1,3521 @@
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4498ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (8807ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1368.32s
+ Real time factor: 3.94719
+ UPS: 37602.991270
+Vehicles: 
+ Inserted: 20594 (Loaded: 20626)
+ Running: 11597
+ Waiting: 32
+Teleports: 2446 (Collisions: 8, Jam: 1256, Yield: 1145, Wrong Lane: 37)
+Statistics (avg):
+ RouteLength: 10766.21
+ Speed: 9.36
+ Duration: 1513.88
+ WaitingTime: 662.16
+ TimeLoss: 941.05
+ DepartDelay: 4.95
+
+DijkstraRouter answered 22106 queries and explored 6742.12 edges on average.
+DijkstraRouter spent 331.07s answering queries (14.98ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (57231ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (78ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1857.79s
+ Real time factor: 2.90722
+ UPS: 22163.456394
+Vehicles: 
+ Inserted: 19597 (Loaded: 19613)
+ Running: 7898
+ Waiting: 16
+Teleports: 2299 (Collisions: 3, Jam: 1051, Yield: 1124, Wrong Lane: 121)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12759.39
+ Speed: 10.70
+ Duration: 1421.28
+ WaitingTime: 505.93
+ TimeLoss: 803.57
+ DepartDelay: 3.45
+
+DijkstraRouter answered 20454 queries and explored 12458.34 edges on average.
+DijkstraRouter spent 711.73s answering queries (34.80ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (48720ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (58ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7563.74s
+ Real time factor: 0.714065
+ UPS: 6030.910787
+Vehicles: 
+ Inserted: 21854 (Loaded: 21856)
+ Running: 6557
+ Waiting: 2
+Teleports: 1256 (Collisions: 7, Jam: 733, Yield: 433, Wrong Lane: 83)
+Emergency Stops: 15
+Statistics (avg):
+ RouteLength: 13584.20
+ Speed: 9.61
+ Duration: 1591.62
+ WaitingTime: 552.90
+ TimeLoss: 847.54
+ DepartDelay: 0.81
+
+DijkstraRouter answered 21107 queries and explored 73441.75 edges on average.
+DijkstraRouter spent 4471.85s answering queries (211.87ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (40229ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (57ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6591.96s
+ Real time factor: 0.819332
+ UPS: 6090.408370
+Vehicles: 
+ Inserted: 21812 (Loaded: 21814)
+ Running: 4290
+ Waiting: 2
+Teleports: 2265 (Collisions: 6, Jam: 1543, Yield: 530, Wrong Lane: 186)
+Emergency Stops: 8
+Statistics (avg):
+ RouteLength: 13634.35
+ Speed: 10.25
+ Duration: 1473.14
+ WaitingTime: 479.60
+ TimeLoss: 739.95
+ DepartDelay: 1.55
+
+DijkstraRouter answered 21518 queries and explored 61892.45 edges on average.
+DijkstraRouter spent 4032.43s answering queries (187.40ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (52699ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (30ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6125.42s
+ Real time factor: 0.881735
+ UPS: 5817.752148
+Vehicles: 
+ Inserted: 21553
+ Running: 2538
+ Waiting: 0
+Teleports: 1137 (Collisions: 6, Jam: 668, Yield: 386, Wrong Lane: 77)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 14725.48
+ Speed: 11.27
+ Duration: 1427.41
+ WaitingTime: 427.44
+ TimeLoss: 667.08
+ DepartDelay: 1.19
+
+DijkstraRouter answered 21341 queries and explored 57143.83 edges on average.
+DijkstraRouter spent 3687.19s answering queries (172.77ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4661ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7681.41s
+ Real time factor: 0.703126
+ UPS: 5075.490958
+Vehicles: 
+ Inserted: 21472 (Loaded: 21476)
+ Running: 3934
+ Waiting: 4
+Teleports: 1838 (Collisions: 2, Jam: 1188, Yield: 564, Wrong Lane: 84)
+Statistics (avg):
+ RouteLength: 14987.71
+ Speed: 11.44
+ Duration: 1467.08
+ WaitingTime: 425.33
+ TimeLoss: 659.56
+ DepartDelay: 0.89
+
+DijkstraRouter answered 21674 queries and explored 75263.36 edges on average.
+DijkstraRouter spent 4989.14s answering queries (230.19ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (8739ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3774.55s
+ Real time factor: 1.4309
+ UPS: 29725.808785
+Vehicles: 
+ Inserted: 36830 (Loaded: 37691)
+ Running: 30000
+ Waiting: 861
+Teleports: 8233 (Collisions: 6, Jam: 4423, Yield: 3739, Wrong Lane: 65)
+Statistics (avg):
+ RouteLength: 8286.86
+ Speed: 8.42
+ Duration: 1436.40
+ WaitingTime: 730.53
+ TimeLoss: 970.01
+ DepartDelay: 15.12
+
+DijkstraRouter answered 86592 queries and explored 6673.76 edges on average.
+DijkstraRouter spent 1556.21s answering queries (17.97ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (52404ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (70ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3908.65s
+ Real time factor: 1.38181
+ UPS: 26784.906663
+Vehicles: 
+ Inserted: 35753 (Loaded: 35914)
+ Running: 27440
+ Waiting: 161
+Teleports: 11682 (Collisions: 9, Jam: 6007, Yield: 5223, Wrong Lane: 443)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 10720.34
+ Speed: 9.60
+ Duration: 1399.36
+ WaitingTime: 637.24
+ TimeLoss: 870.30
+ DepartDelay: 6.62
+
+DijkstraRouter answered 42606 queries and explored 12569.48 edges on average.
+DijkstraRouter spent 1514.56s answering queries (35.55ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (41332ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (54ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 11894.72s
+ Real time factor: 0.454067
+ UPS: 7444.271866
+Vehicles: 
+ Inserted: 39453 (Loaded: 39466)
+ Running: 15436
+ Waiting: 13
+Teleports: 6531 (Collisions: 24, Jam: 4294, Yield: 1737, Wrong Lane: 476)
+Emergency Stops: 7
+Statistics (avg):
+ RouteLength: 12731.74
+ Speed: 9.67
+ Duration: 1497.07
+ WaitingTime: 535.76
+ TimeLoss: 794.68
+ DepartDelay: 1.63
+
+DijkstraRouter answered 39949 queries and explored 61973.50 edges on average.
+DijkstraRouter spent 7887.47s answering queries (197.44ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (43722ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (693ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13833.78s
+ Real time factor: 0.390421
+ UPS: 6888.160607
+Vehicles: 
+ Inserted: 39293 (Loaded: 39307)
+ Running: 18586
+ Waiting: 14
+Teleports: 5084 (Collisions: 18, Jam: 3116, Yield: 1752, Wrong Lane: 198)
+Emergency Stops: 15
+Statistics (avg):
+ RouteLength: 12135.66
+ Speed: 9.06
+ Duration: 1571.10
+ WaitingTime: 613.96
+ TimeLoss: 883.66
+ DepartDelay: 1.76
+
+DijkstraRouter answered 39576 queries and explored 73670.30 edges on average.
+DijkstraRouter spent 9111.08s answering queries (230.22ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (51260ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (29ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10470.46s
+ Real time factor: 0.515832
+ UPS: 7669.919277
+Vehicles: 
+ Inserted: 39221 (Loaded: 39225)
+ Running: 10440
+ Waiting: 4
+Teleports: 3671 (Collisions: 19, Jam: 2163, Yield: 1232, Wrong Lane: 257)
+Statistics (avg):
+ RouteLength: 14146.84
+ Speed: 10.13
+ Duration: 1583.90
+ WaitingTime: 570.91
+ TimeLoss: 835.49
+ DepartDelay: 2.20
+
+DijkstraRouter answered 39743 queries and explored 57131.01 edges on average.
+DijkstraRouter spent 6749.89s answering queries (169.84ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4496ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 14106.86s
+ Real time factor: 0.382863
+ UPS: 6131.950801
+Vehicles: 
+ Inserted: 39286 (Loaded: 39298)
+ Running: 14293
+ Waiting: 12
+Teleports: 4992 (Collisions: 20, Jam: 3162, Yield: 1637, Wrong Lane: 173)
+Statistics (avg):
+ RouteLength: 14019.30
+ Speed: 10.66
+ Duration: 1503.93
+ WaitingTime: 482.38
+ TimeLoss: 729.34
+ DepartDelay: 1.65
+
+DijkstraRouter answered 40244 queries and explored 75193.49 edges on average.
+DijkstraRouter spent 9891.75s answering queries (245.79ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (8292ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (53288ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (72ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8727.80s
+ Real time factor: 0.618827
+ UPS: 25803.611358
+Vehicles: 
+ Inserted: 64582 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7269
+Teleports: 22829 (Collisions: 25, Jam: 11522, Yield: 11208, Wrong Lane: 74)
+Statistics (avg):
+ RouteLength: 6214.19
+ Speed: 7.48
+ Duration: 1403.76
+ WaitingTime: 841.71
+ TimeLoss: 1029.70
+ DepartDelay: 8.94
+
+DijkstraRouter answered 251504 queries and explored 6702.00 edges on average.
+DijkstraRouter spent 4455.97s answering queries (17.72ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (43725ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (53ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 9532.75s
+ Real time factor: 0.566573
+ UPS: 22945.067361
+Vehicles: 
+ Inserted: 66010 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2488
+Teleports: 32968 (Collisions: 38, Jam: 15831, Yield: 16608, Wrong Lane: 491)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 9109.57
+ Speed: 8.91
+ Duration: 1355.03
+ WaitingTime: 728.25
+ TimeLoss: 889.66
+ DepartDelay: 8.77
+
+DijkstraRouter answered 127464 queries and explored 12375.50 edges on average.
+DijkstraRouter spent 4638.25s answering queries (36.39ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (40164ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (58ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 24873.23s
+ Real time factor: 0.217141
+ UPS: 8336.820296
+Vehicles: 
+ Inserted: 74105 (Loaded: 74177)
+ Running: 48729
+ Waiting: 72
+Teleports: 17006 (Collisions: 28, Jam: 10708, Yield: 5633, Wrong Lane: 637)
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 10465.61
+ Speed: 8.28
+ Duration: 1538.93
+ WaitingTime: 673.59
+ TimeLoss: 922.55
+ DepartDelay: 3.12
+
+DijkstraRouter answered 77976 queries and explored 73730.91 edges on average.
+DijkstraRouter spent 17420.99s answering queries (223.41ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (52462ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (29ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 23361.27s
+ Real time factor: 0.231195
+ UPS: 8843.077038
+Vehicles: 
+ Inserted: 74723 (Loaded: 74795)
+ Running: 48277
+ Waiting: 72
+Teleports: 19392 (Collisions: 57, Jam: 12244, Yield: 6116, Wrong Lane: 975)
+Emergency Stops: 17
+Statistics (avg):
+ RouteLength: 11014.85
+ Speed: 8.33
+ Duration: 1564.55
+ WaitingTime: 675.38
+ TimeLoss: 937.63
+ DepartDelay: 3.42
+
+DijkstraRouter answered 80376 queries and explored 62065.80 edges on average.
+DijkstraRouter spent 16177.65s answering queries (201.27ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4348ms).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (9277ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1443.24s
+ Real time factor: 3.74228
+ UPS: 36187.666336
+Vehicles: 
+ Inserted: 20596 (Loaded: 20626)
+ Running: 11969
+ Waiting: 30
+Teleports: 2506 (Collisions: 4, Jam: 1294, Yield: 1176, Wrong Lane: 32)
+Statistics (avg):
+ RouteLength: 10538.24
+ Speed: 9.58
+ Duration: 1496.41
+ WaitingTime: 655.23
+ TimeLoss: 934.98
+ DepartDelay: 4.35
+
+DijkstraRouter answered 22134 queries and explored 6713.48 edges on average.
+DijkstraRouter spent 351.36s answering queries (15.87ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 22527.51s
+ Real time factor: 0.239751
+ UPS: 8546.322091
+Vehicles: 
+ Inserted: 74514 (Loaded: 74569)
+ Running: 39528
+ Waiting: 55
+Teleports: 13089 (Collisions: 25, Jam: 7883, Yield: 4591, Wrong Lane: 590)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 12740.15
+ Speed: 8.88
+ Duration: 1664.40
+ WaitingTime: 683.86
+ TimeLoss: 966.57
+ DepartDelay: 3.66
+
+DijkstraRouter answered 79469 queries and explored 57325.30 edges on average.
+DijkstraRouter spent 15543.07s answering queries (195.59ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44724ms).
+done (52796ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (56ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (73ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1861.48s
+ Real time factor: 2.90145
+ UPS: 22255.954527
+Vehicles: 
+ Inserted: 19595 (Loaded: 19613)
+ Running: 8042
+ Waiting: 18
+Teleports: 2830 (Jam: 1320, Yield: 1461, Wrong Lane: 49)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12739.67
+ Speed: 10.81
+ Duration: 1423.31
+ WaitingTime: 529.72
+ TimeLoss: 804.09
+ DepartDelay: 3.08
+
+DijkstraRouter answered 20603 queries and explored 12536.68 edges on average.
+DijkstraRouter spent 681.21s answering queries (33.06ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (40276ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (61ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (4731ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (416ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (9225ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (54157ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (66ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6395.02s
+ Real time factor: 0.844564
+ UPS: 5641.929859
+Vehicles: 
+ Inserted: 21553
+ Running: 2809
+ Waiting: 0
+Teleports: 1289 (Collisions: 5, Jam: 789, Yield: 413, Wrong Lane: 82)
+Statistics (avg):
+ RouteLength: 14656.82
+ Speed: 11.18
+ Duration: 1434.40
+ WaitingTime: 437.30
+ TimeLoss: 676.11
+ DepartDelay: 1.25
+
+DijkstraRouter answered 21329 queries and explored 57078.83 edges on average.
+DijkstraRouter spent 3812.83s answering queries (178.76ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (51523ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (28ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7347.12s
+ Real time factor: 0.735118
+ UPS: 5542.150541
+Vehicles: 
+ Inserted: 21813 (Loaded: 21814)
+ Running: 4458
+ Waiting: 1
+Teleports: 2269 (Collisions: 14, Jam: 1473, Yield: 617, Wrong Lane: 165)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 13530.65
+ Speed: 10.25
+ Duration: 1486.55
+ WaitingTime: 499.34
+ TimeLoss: 756.95
+ DepartDelay: 1.18
+
+DijkstraRouter answered 21511 queries and explored 61890.18 edges on average.
+DijkstraRouter spent 4472.37s answering queries (207.91ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8838.33s
+ Real time factor: 0.611088
+ UPS: 5202.430843
+Vehicles: 
+ Inserted: 21854 (Loaded: 21856)
+ Running: 6834
+ Waiting: 2
+Teleports: 1902 (Collisions: 6, Jam: 1177, Yield: 618, Wrong Lane: 101)
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 13460.80
+ Speed: 9.66
+ Duration: 1571.06
+ WaitingTime: 542.47
+ TimeLoss: 829.56
+ DepartDelay: 0.84
+
+DijkstraRouter answered 21213 queries and explored 73274.90 edges on average.
+DijkstraRouter spent 5336.30s answering queries (251.56ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8408.29s
+ Real time factor: 0.642342
+ UPS: 4706.583335
+Vehicles: 
+ Inserted: 21473 (Loaded: 21476)
+ Running: 4555
+ Waiting: 3
+Teleports: 1900 (Collisions: 4, Jam: 1254, Yield: 570, Wrong Lane: 72)
+Statistics (avg):
+ RouteLength: 14755.98
+ Speed: 11.58
+ Duration: 1429.32
+ WaitingTime: 409.67
+ TimeLoss: 635.74
+ DepartDelay: 0.95
+
+DijkstraRouter answered 21631 queries and explored 75087.08 edges on average.
+DijkstraRouter spent 5539.80s answering queries (256.10ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 25912.14s
+ Real time factor: 0.208435
+ UPS: 7863.234332
+Vehicles: 
+ Inserted: 74897 (Loaded: 74971)
+ Running: 46645
+ Waiting: 74
+Teleports: 16949 (Collisions: 27, Jam: 10664, Yield: 5499, Wrong Lane: 759)
+Statistics (avg):
+ RouteLength: 11757.71
+ Speed: 9.32
+ Duration: 1526.23
+ WaitingTime: 605.34
+ TimeLoss: 854.93
+ DepartDelay: 2.41
+
+DijkstraRouter answered 79365 queries and explored 75240.97 edges on average.
+DijkstraRouter spent 19298.94s answering queries (243.17ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4336ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (20ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (8902ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (5178ms).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9848ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (47160ms).
+done (55763ms).
+done (44982ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (55ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (71ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (75ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (59784ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (34ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (58442ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (76ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1432.41s
+ Real time factor: 3.77056
+ UPS: 36461.143163
+Vehicles: 
+ Inserted: 20596 (Loaded: 20626)
+ Running: 11969
+ Waiting: 30
+Teleports: 2506 (Collisions: 4, Jam: 1294, Yield: 1176, Wrong Lane: 32)
+Statistics (avg):
+ RouteLength: 10538.24
+ Speed: 9.58
+ Duration: 1496.41
+ WaitingTime: 655.23
+ TimeLoss: 934.98
+ DepartDelay: 4.35
+
+DijkstraRouter answered 22134 queries and explored 6713.48 edges on average.
+DijkstraRouter spent 383.03s answering queries (17.30ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (46862ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (49ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 2011.25s
+ Real time factor: 2.68539
+ UPS: 20598.672965
+Vehicles: 
+ Inserted: 19595 (Loaded: 19613)
+ Running: 8042
+ Waiting: 18
+Teleports: 2830 (Jam: 1320, Yield: 1461, Wrong Lane: 49)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12739.67
+ Speed: 10.81
+ Duration: 1423.31
+ WaitingTime: 529.72
+ TimeLoss: 804.09
+ DepartDelay: 3.08
+
+DijkstraRouter answered 20603 queries and explored 12536.68 edges on average.
+DijkstraRouter spent 796.09s answering queries (38.64ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (42306ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (71ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3280.05s
+ Real time factor: 1.64662
+ UPS: 34231.829300
+Vehicles: 
+ Inserted: 37238 (Loaded: 37691)
+ Running: 30000
+ Waiting: 453
+Teleports: 7963 (Collisions: 7, Jam: 4188, Yield: 3712, Wrong Lane: 56)
+Statistics (avg):
+ RouteLength: 8471.79
+ Speed: 8.25
+ Duration: 1530.30
+ WaitingTime: 805.37
+ TimeLoss: 1055.41
+ DepartDelay: 17.84
+
+DijkstraRouter answered 82360 queries and explored 6688.67 edges on average.
+DijkstraRouter spent 1249.08s answering queries (15.17ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (56619ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (37ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3695.55s
+ Real time factor: 1.46149
+ UPS: 28394.630947
+Vehicles: 
+ Inserted: 35722 (Loaded: 35914)
+ Running: 27634
+ Waiting: 192
+Teleports: 11965 (Collisions: 8, Jam: 6143, Yield: 5298, Wrong Lane: 516)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 10469.40
+ Speed: 9.64
+ Duration: 1358.71
+ WaitingTime: 616.31
+ TimeLoss: 840.32
+ DepartDelay: 6.07
+
+DijkstraRouter answered 42116 queries and explored 12515.09 edges on average.
+DijkstraRouter spent 1327.68s answering queries (31.52ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 5896.75s
+ Real time factor: 0.915928
+ UPS: 6118.665875
+Vehicles: 
+ Inserted: 21553
+ Running: 2809
+ Waiting: 0
+Teleports: 1289 (Collisions: 5, Jam: 789, Yield: 413, Wrong Lane: 82)
+Statistics (avg):
+ RouteLength: 14656.82
+ Speed: 11.18
+ Duration: 1434.40
+ WaitingTime: 437.30
+ TimeLoss: 676.11
+ DepartDelay: 1.25
+
+DijkstraRouter answered 21329 queries and explored 57078.83 edges on average.
+DijkstraRouter spent 3540.98s answering queries (166.02ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4385ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (16ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (8909ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6829.53s
+ Real time factor: 0.79083
+ UPS: 5962.168722
+Vehicles: 
+ Inserted: 21813 (Loaded: 21814)
+ Running: 4458
+ Waiting: 1
+Teleports: 2269 (Collisions: 14, Jam: 1473, Yield: 617, Wrong Lane: 165)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 13530.65
+ Speed: 10.25
+ Duration: 1486.55
+ WaitingTime: 499.34
+ TimeLoss: 756.95
+ DepartDelay: 1.18
+
+DijkstraRouter answered 21511 queries and explored 61890.18 edges on average.
+DijkstraRouter spent 4162.83s answering queries (193.52ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (52207ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (70ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7795.72s
+ Real time factor: 0.692816
+ UPS: 5076.416537
+Vehicles: 
+ Inserted: 21473 (Loaded: 21476)
+ Running: 4555
+ Waiting: 3
+Teleports: 1900 (Collisions: 4, Jam: 1254, Yield: 570, Wrong Lane: 72)
+Statistics (avg):
+ RouteLength: 14755.98
+ Speed: 11.58
+ Duration: 1429.32
+ WaitingTime: 409.67
+ TimeLoss: 635.74
+ DepartDelay: 0.95
+
+DijkstraRouter answered 21631 queries and explored 75087.08 edges on average.
+DijkstraRouter spent 5057.44s answering queries (233.80ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (43558ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (50ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8006.75s
+ Real time factor: 0.674556
+ UPS: 5742.758794
+Vehicles: 
+ Inserted: 21854 (Loaded: 21856)
+ Running: 6834
+ Waiting: 2
+Teleports: 1902 (Collisions: 6, Jam: 1177, Yield: 618, Wrong Lane: 101)
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 13460.80
+ Speed: 9.66
+ Duration: 1571.06
+ WaitingTime: 542.47
+ TimeLoss: 829.56
+ DepartDelay: 0.84
+
+DijkstraRouter answered 21213 queries and explored 73274.90 edges on average.
+DijkstraRouter spent 4729.11s answering queries (222.93ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41592ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (61ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10557.04s
+ Real time factor: 0.511602
+ UPS: 7684.199399
+Vehicles: 
+ Inserted: 39223 (Loaded: 39225)
+ Running: 10981
+ Waiting: 2
+Teleports: 4033 (Collisions: 21, Jam: 2362, Yield: 1382, Wrong Lane: 268)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 14089.09
+ Speed: 10.17
+ Duration: 1563.11
+ WaitingTime: 560.21
+ TimeLoss: 817.74
+ DepartDelay: 2.12
+
+DijkstraRouter answered 39710 queries and explored 57040.10 edges on average.
+DijkstraRouter spent 6837.96s answering queries (172.20ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (55195ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (32ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13434.26s
+ Real time factor: 0.402032
+ UPS: 7077.317196
+Vehicles: 
+ Inserted: 39294 (Loaded: 39307)
+ Running: 18467
+ Waiting: 13
+Teleports: 5337 (Collisions: 16, Jam: 3347, Yield: 1732, Wrong Lane: 242)
+Emergency Stops: 12
+Statistics (avg):
+ RouteLength: 12229.45
+ Speed: 9.05
+ Duration: 1586.84
+ WaitingTime: 621.33
+ TimeLoss: 895.36
+ DepartDelay: 1.46
+
+DijkstraRouter answered 39508 queries and explored 73816.83 edges on average.
+DijkstraRouter spent 9002.04s answering queries (227.85ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4596ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 12265.06s
+ Real time factor: 0.440356
+ UPS: 7222.906542
+Vehicles: 
+ Inserted: 39451 (Loaded: 39466)
+ Running: 15416
+ Waiting: 15
+Teleports: 6712 (Collisions: 21, Jam: 4405, Yield: 1870, Wrong Lane: 416)
+Emergency Stops: 9
+Statistics (avg):
+ RouteLength: 12713.22
+ Speed: 9.60
+ Duration: 1513.55
+ WaitingTime: 551.68
+ TimeLoss: 813.35
+ DepartDelay: 2.18
+
+DijkstraRouter answered 40299 queries and explored 62022.30 edges on average.
+DijkstraRouter spent 8270.02s answering queries (205.22ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (9118ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8370.60s
+ Real time factor: 0.645234
+ UPS: 26877.357118
+Vehicles: 
+ Inserted: 64574 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7277
+Teleports: 23061 (Collisions: 23, Jam: 11680, Yield: 11264, Wrong Lane: 94)
+Statistics (avg):
+ RouteLength: 6281.13
+ Speed: 7.63
+ Duration: 1363.91
+ WaitingTime: 807.79
+ TimeLoss: 988.59
+ DepartDelay: 11.71
+
+DijkstraRouter answered 249172 queries and explored 6695.92 edges on average.
+DijkstraRouter spent 4280.40s answering queries (17.18ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (53942ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (66ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8859.01s
+ Real time factor: 0.609662
+ UPS: 24687.527465
+Vehicles: 
+ Inserted: 65924 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2574
+Teleports: 33757 (Collisions: 22, Jam: 16522, Yield: 16618, Wrong Lane: 595)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 8826.00
+ Speed: 8.91
+ Duration: 1320.97
+ WaitingTime: 709.40
+ TimeLoss: 862.86
+ DepartDelay: 11.89
+
+DijkstraRouter answered 125750 queries and explored 12382.52 edges on average.
+DijkstraRouter spent 4199.45s answering queries (33.40ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44587ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (50ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1464.47s
+ Real time factor: 3.68802
+ UPS: 34946.369713
+Vehicles: 
+ Inserted: 20593 (Loaded: 20626)
+ Running: 11463
+ Waiting: 33
+Teleports: 2350 (Collisions: 8, Jam: 1267, Yield: 1043, Wrong Lane: 32)
+Statistics (avg):
+ RouteLength: 10770.27
+ Speed: 9.43
+ Duration: 1519.50
+ WaitingTime: 655.54
+ TimeLoss: 949.22
+ DepartDelay: 3.91
+
+DijkstraRouter answered 22147 queries and explored 6701.19 edges on average.
+DijkstraRouter spent 395.24s answering queries (17.85ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41109ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (60ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1981.73s
+ Real time factor: 2.72539
+ UPS: 21194.125041
+Vehicles: 
+ Inserted: 19592 (Loaded: 19613)
+ Running: 8318
+ Waiting: 21
+Teleports: 2280 (Jam: 1103, Yield: 1128, Wrong Lane: 49)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12371.72
+ Speed: 10.78
+ Duration: 1382.69
+ WaitingTime: 515.19
+ TimeLoss: 784.43
+ DepartDelay: 3.59
+
+DijkstraRouter answered 20596 queries and explored 12486.40 edges on average.
+DijkstraRouter spent 785.03s answering queries (38.12ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 12851.39s
+ Real time factor: 0.420266
+ UPS: 6714.180345
+Vehicles: 
+ Inserted: 39284 (Loaded: 39298)
+ Running: 14214
+ Waiting: 14
+Teleports: 4825 (Collisions: 20, Jam: 3159, Yield: 1487, Wrong Lane: 159)
+Statistics (avg):
+ RouteLength: 13960.09
+ Speed: 10.66
+ Duration: 1500.42
+ WaitingTime: 475.50
+ TimeLoss: 727.99
+ DepartDelay: 1.71
+
+DijkstraRouter answered 40121 queries and explored 75053.90 edges on average.
+DijkstraRouter spent 8951.00s answering queries (223.10ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4711ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (51372ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (29ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3444.64s
+ Real time factor: 1.56795
+ UPS: 32559.938989
+Vehicles: 
+ Inserted: 36895 (Loaded: 37691)
+ Running: 30000
+ Waiting: 796
+Teleports: 8343 (Collisions: 10, Jam: 4315, Yield: 3958, Wrong Lane: 60)
+Statistics (avg):
+ RouteLength: 8173.50
+ Speed: 8.45
+ Duration: 1434.46
+ WaitingTime: 738.17
+ TimeLoss: 971.38
+ DepartDelay: 16.21
+
+DijkstraRouter answered 88359 queries and explored 6650.01 edges on average.
+DijkstraRouter spent 1386.88s answering queries (15.70ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 5768.03s
+ Real time factor: 0.936368
+ UPS: 6186.710303
+Vehicles: 
+ Inserted: 21553
+ Running: 2393
+ Waiting: 0
+Teleports: 1307 (Collisions: 3, Jam: 765, Yield: 456, Wrong Lane: 83)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 14829.51
+ Speed: 11.18
+ Duration: 1453.35
+ WaitingTime: 444.43
+ TimeLoss: 686.37
+ DepartDelay: 1.25
+
+DijkstraRouter answered 21314 queries and explored 57073.75 edges on average.
+DijkstraRouter spent 3432.86s answering queries (161.06ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (8843ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (16ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7293.29s
+ Real time factor: 0.740544
+ UPS: 5601.317924
+Vehicles: 
+ Inserted: 21808 (Loaded: 21814)
+ Running: 4690
+ Waiting: 6
+Teleports: 2355 (Collisions: 12, Jam: 1617, Yield: 567, Wrong Lane: 159)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 13495.15
+ Speed: 10.25
+ Duration: 1476.42
+ WaitingTime: 491.26
+ TimeLoss: 748.02
+ DepartDelay: 0.96
+
+DijkstraRouter answered 21602 queries and explored 61764.53 edges on average.
+DijkstraRouter spent 4571.99s answering queries (211.65ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (45108ms).
+done (53924ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (60ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (76ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7928.60s
+ Real time factor: 0.681205
+ UPS: 5816.211368
+Vehicles: 
+ Inserted: 21855 (Loaded: 21856)
+ Running: 7069
+ Waiting: 1
+Teleports: 1828 (Collisions: 3, Jam: 1097, Yield: 622, Wrong Lane: 106)
+Emergency Stops: 14
+Statistics (avg):
+ RouteLength: 13375.79
+ Speed: 9.68
+ Duration: 1553.34
+ WaitingTime: 536.72
+ TimeLoss: 819.44
+ DepartDelay: 0.93
+
+DijkstraRouter answered 21162 queries and explored 73340.48 edges on average.
+DijkstraRouter spent 4670.72s answering queries (220.71ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7618.67s
+ Real time factor: 0.708916
+ UPS: 5230.411446
+Vehicles: 
+ Inserted: 21473 (Loaded: 21476)
+ Running: 4855
+ Waiting: 3
+Teleports: 1958 (Collisions: 6, Jam: 1280, Yield: 599, Wrong Lane: 73)
+Statistics (avg):
+ RouteLength: 14619.88
+ Speed: 11.60
+ Duration: 1410.67
+ WaitingTime: 403.59
+ TimeLoss: 623.83
+ DepartDelay: 0.96
+
+DijkstraRouter answered 21647 queries and explored 75114.31 edges on average.
+DijkstraRouter spent 5022.00s answering queries (232.00ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (44228ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (74ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (60974ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (32ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3938.29s
+ Real time factor: 1.37141
+ UPS: 26734.533143
+Vehicles: 
+ Inserted: 35728 (Loaded: 35914)
+ Running: 27596
+ Waiting: 186
+Teleports: 10775 (Collisions: 4, Jam: 5520, Yield: 4894, Wrong Lane: 357)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 11059.73
+ Speed: 9.81
+ Duration: 1414.22
+ WaitingTime: 638.33
+ TimeLoss: 871.04
+ DepartDelay: 5.13
+
+DijkstraRouter answered 42286 queries and explored 12429.51 edges on average.
+DijkstraRouter spent 1498.03s answering queries (35.43ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 19863.49s
+ Real time factor: 0.271906
+ UPS: 9652.381079
+Vehicles: 
+ Inserted: 74520 (Loaded: 74569)
+ Running: 38612
+ Waiting: 49
+Teleports: 12357 (Collisions: 24, Jam: 7343, Yield: 4428, Wrong Lane: 562)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 12757.17
+ Speed: 8.74
+ Duration: 1704.87
+ WaitingTime: 710.24
+ TimeLoss: 1006.37
+ DepartDelay: 3.66
+
+DijkstraRouter answered 79253 queries and explored 57206.82 edges on average.
+DijkstraRouter spent 13279.83s answering queries (167.56ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 22549.19s
+ Real time factor: 0.239521
+ UPS: 9144.192496
+Vehicles: 
+ Inserted: 74695 (Loaded: 74795)
+ Running: 46785
+ Waiting: 100
+Teleports: 19153 (Collisions: 56, Jam: 12103, Yield: 6143, Wrong Lane: 851)
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 11449.75
+ Speed: 8.40
+ Duration: 1605.79
+ WaitingTime: 689.07
+ TimeLoss: 953.01
+ DepartDelay: 3.65
+
+DijkstraRouter answered 80594 queries and explored 62192.52 edges on average.
+DijkstraRouter spent 15613.49s answering queries (193.73ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4461ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9845ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (58258ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (69ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 24551.63s
+ Real time factor: 0.219985
+ UPS: 8390.382739
+Vehicles: 
+ Inserted: 74116 (Loaded: 74177)
+ Running: 47152
+ Waiting: 61
+Teleports: 15157 (Collisions: 34, Jam: 9308, Yield: 5241, Wrong Lane: 574)
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 10831.22
+ Speed: 8.23
+ Duration: 1584.69
+ WaitingTime: 686.20
+ TimeLoss: 949.69
+ DepartDelay: 2.89
+
+DijkstraRouter answered 77805 queries and explored 73533.15 edges on average.
+DijkstraRouter spent 17322.08s answering queries (222.63ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (45411ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (50ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 11459.59s
+ Real time factor: 0.471308
+ UPS: 7810.845884
+Vehicles: 
+ Inserted: 39448 (Loaded: 39466)
+ Running: 16096
+ Waiting: 18
+Teleports: 7335 (Collisions: 25, Jam: 4841, Yield: 2014, Wrong Lane: 455)
+Emergency Stops: 8
+Statistics (avg):
+ RouteLength: 12572.95
+ Speed: 9.59
+ Duration: 1506.47
+ WaitingTime: 560.38
+ TimeLoss: 813.72
+ DepartDelay: 1.83
+
+DijkstraRouter answered 40141 queries and explored 62069.41 edges on average.
+DijkstraRouter spent 7548.58s answering queries (188.05ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (40544ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (58ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10366.93s
+ Real time factor: 0.520984
+ UPS: 7790.066064
+Vehicles: 
+ Inserted: 39218 (Loaded: 39225)
+ Running: 10760
+ Waiting: 7
+Teleports: 4388 (Collisions: 26, Jam: 2555, Yield: 1552, Wrong Lane: 255)
+Statistics (avg):
+ RouteLength: 14177.20
+ Speed: 10.21
+ Duration: 1568.90
+ WaitingTime: 562.26
+ TimeLoss: 818.63
+ DepartDelay: 2.19
+
+DijkstraRouter answered 39875 queries and explored 57036.22 edges on average.
+DijkstraRouter spent 6661.83s answering queries (167.07ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (53780ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (36ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13517.40s
+ Real time factor: 0.399559
+ UPS: 7017.851285
+Vehicles: 
+ Inserted: 39293 (Loaded: 39307)
+ Running: 18175
+ Waiting: 14
+Teleports: 5469 (Collisions: 16, Jam: 3367, Yield: 1877, Wrong Lane: 209)
+Emergency Stops: 12
+Statistics (avg):
+ RouteLength: 12262.33
+ Speed: 9.00
+ Duration: 1593.75
+ WaitingTime: 624.39
+ TimeLoss: 899.87
+ DepartDelay: 1.87
+
+DijkstraRouter answered 39556 queries and explored 73853.15 edges on average.
+DijkstraRouter spent 9058.12s answering queries (228.99ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4854ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 12434.78s
+ Real time factor: 0.434346
+ UPS: 6965.073275
+Vehicles: 
+ Inserted: 39285 (Loaded: 39298)
+ Running: 14254
+ Waiting: 13
+Teleports: 4864 (Collisions: 21, Jam: 3103, Yield: 1570, Wrong Lane: 170)
+Statistics (avg):
+ RouteLength: 14002.65
+ Speed: 10.75
+ Duration: 1493.85
+ WaitingTime: 477.17
+ TimeLoss: 720.23
+ DepartDelay: 1.64
+
+DijkstraRouter answered 40016 queries and explored 75037.03 edges on average.
+DijkstraRouter spent 8730.46s answering queries (218.17ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (9014ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1577.10s
+ Real time factor: 3.42464
+ UPS: 33132.786211
+Vehicles: 
+ Inserted: 20595 (Loaded: 20626)
+ Running: 12003
+ Waiting: 31
+Teleports: 2241 (Collisions: 5, Jam: 1153, Yield: 1041, Wrong Lane: 42)
+Statistics (avg):
+ RouteLength: 10541.72
+ Speed: 9.27
+ Duration: 1536.52
+ WaitingTime: 692.88
+ TimeLoss: 976.73
+ DepartDelay: 4.47
+
+DijkstraRouter answered 22146 queries and explored 6740.72 edges on average.
+DijkstraRouter spent 421.06s answering queries (19.01ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (54221ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (67ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 25381.86s
+ Real time factor: 0.21279
+ UPS: 7971.728316
+Vehicles: 
+ Inserted: 74876 (Loaded: 74971)
+ Running: 46086
+ Waiting: 95
+Teleports: 16706 (Collisions: 28, Jam: 10412, Yield: 5528, Wrong Lane: 738)
+Statistics (avg):
+ RouteLength: 11855.04
+ Speed: 9.24
+ Duration: 1533.87
+ WaitingTime: 598.55
+ TimeLoss: 857.32
+ DepartDelay: 3.04
+
+DijkstraRouter answered 79889 queries and explored 75313.23 edges on average.
+DijkstraRouter spent 18493.76s answering queries (231.49ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (45365ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (48ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1872.55s
+ Real time factor: 2.8843
+ UPS: 22834.779576
+Vehicles: 
+ Inserted: 19597 (Loaded: 19613)
+ Running: 8659
+ Waiting: 16
+Teleports: 2803 (Collisions: 1, Jam: 1351, Yield: 1271, Wrong Lane: 180)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12776.91
+ Speed: 10.63
+ Duration: 1463.60
+ WaitingTime: 562.34
+ TimeLoss: 845.82
+ DepartDelay: 2.62
+
+DijkstraRouter answered 20463 queries and explored 12488.05 edges on average.
+DijkstraRouter spent 701.44s answering queries (34.28ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (40608ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (71ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8552.99s
+ Real time factor: 0.631475
+ UPS: 26342.286302
+Vehicles: 
+ Inserted: 64564 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7287
+Teleports: 23108 (Collisions: 14, Jam: 11750, Yield: 11253, Wrong Lane: 91)
+Statistics (avg):
+ RouteLength: 6198.96
+ Speed: 7.40
+ Duration: 1439.26
+ WaitingTime: 862.25
+ TimeLoss: 1062.29
+ DepartDelay: 9.87
+
+DijkstraRouter answered 252119 queries and explored 6702.40 edges on average.
+DijkstraRouter spent 4451.02s answering queries (17.65ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (55487ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (36ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8892.98s
+ Real time factor: 0.607333
+ UPS: 24606.785689
+Vehicles: 
+ Inserted: 66034 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2464
+Teleports: 33456 (Collisions: 16, Jam: 16202, Yield: 16681, Wrong Lane: 557)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 8749.52
+ Speed: 8.73
+ Duration: 1334.95
+ WaitingTime: 725.56
+ TimeLoss: 885.02
+ DepartDelay: 10.91
+
+DijkstraRouter answered 125962 queries and explored 12386.86 edges on average.
+DijkstraRouter spent 4212.38s answering queries (33.44ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 5855.71s
+ Real time factor: 0.922348
+ UPS: 6122.213957
+Vehicles: 
+ Inserted: 21552 (Loaded: 21553)
+ Running: 2679
+ Waiting: 1
+Teleports: 1382 (Collisions: 3, Jam: 828, Yield: 476, Wrong Lane: 75)
+Statistics (avg):
+ RouteLength: 14793.23
+ Speed: 11.28
+ Duration: 1424.87
+ WaitingTime: 425.23
+ TimeLoss: 660.75
+ DepartDelay: 1.27
+
+DijkstraRouter answered 21330 queries and explored 57144.86 edges on average.
+DijkstraRouter spent 3503.56s answering queries (164.25ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4838ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7221.30s
+ Real time factor: 0.747927
+ UPS: 5719.631490
+Vehicles: 
+ Inserted: 21810 (Loaded: 21814)
+ Running: 5099
+ Waiting: 4
+Teleports: 2433 (Collisions: 12, Jam: 1605, Yield: 673, Wrong Lane: 143)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 13372.84
+ Speed: 10.30
+ Duration: 1458.61
+ WaitingTime: 487.60
+ TimeLoss: 737.64
+ DepartDelay: 1.24
+
+DijkstraRouter answered 21576 queries and explored 61792.19 edges on average.
+DijkstraRouter spent 4476.28s answering queries (207.47ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9092ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (53688ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (62ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8461.09s
+ Real time factor: 0.638334
+ UPS: 5370.490401
+Vehicles: 
+ Inserted: 21854 (Loaded: 21856)
+ Running: 6483
+ Waiting: 2
+Teleports: 1372 (Collisions: 1, Jam: 741, Yield: 539, Wrong Lane: 91)
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 13624.56
+ Speed: 9.62
+ Duration: 1585.93
+ WaitingTime: 545.74
+ TimeLoss: 840.42
+ DepartDelay: 0.84
+
+DijkstraRouter answered 21224 queries and explored 73335.83 edges on average.
+DijkstraRouter spent 5141.97s answering queries (242.27ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44656ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (49ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7385.33s
+ Real time factor: 0.731315
+ UPS: 5317.608421
+Vehicles: 
+ Inserted: 21471 (Loaded: 21476)
+ Running: 4247
+ Waiting: 5
+Teleports: 1833 (Collisions: 3, Jam: 1155, Yield: 609, Wrong Lane: 66)
+Statistics (avg):
+ RouteLength: 14772.81
+ Speed: 11.56
+ Duration: 1430.98
+ WaitingTime: 403.81
+ TimeLoss: 632.43
+ DepartDelay: 1.04
+
+DijkstraRouter answered 21651 queries and explored 75218.02 edges on average.
+DijkstraRouter spent 4805.51s answering queries (221.95ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41160ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (57ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3678.64s
+ Real time factor: 1.46821
+ UPS: 30416.305165
+Vehicles: 
+ Inserted: 36957 (Loaded: 37691)
+ Running: 30000
+ Waiting: 734
+Teleports: 8008 (Collisions: 5, Jam: 4210, Yield: 3730, Wrong Lane: 63)
+Statistics (avg):
+ RouteLength: 8284.87
+ Speed: 8.57
+ Duration: 1427.33
+ WaitingTime: 728.83
+ TimeLoss: 968.37
+ DepartDelay: 13.41
+
+DijkstraRouter answered 82395 queries and explored 6701.69 edges on average.
+DijkstraRouter spent 1497.99s answering queries (18.18ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3968.40s
+ Real time factor: 1.361
+ UPS: 26433.964504
+Vehicles: 
+ Inserted: 35719 (Loaded: 35914)
+ Running: 27500
+ Waiting: 195
+Teleports: 11458 (Collisions: 7, Jam: 5898, Yield: 5272, Wrong Lane: 281)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 10787.81
+ Speed: 9.62
+ Duration: 1423.53
+ WaitingTime: 663.88
+ TimeLoss: 894.75
+ DepartDelay: 5.46
+
+DijkstraRouter answered 43098 queries and explored 12521.31 edges on average.
+DijkstraRouter spent 1578.16s answering queries (36.62ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (55422ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (36ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 19387.04s
+ Real time factor: 0.278588
+ UPS: 9922.623460
+Vehicles: 
+ Inserted: 74518 (Loaded: 74569)
+ Running: 39868
+ Waiting: 51
+Teleports: 13102 (Collisions: 30, Jam: 7940, Yield: 4522, Wrong Lane: 610)
+Statistics (avg):
+ RouteLength: 12618.33
+ Speed: 8.84
+ Duration: 1668.48
+ WaitingTime: 694.67
+ TimeLoss: 979.42
+ DepartDelay: 3.95
+
+DijkstraRouter answered 79328 queries and explored 57244.70 edges on average.
+DijkstraRouter spent 12933.21s answering queries (163.03ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 23622.08s
+ Real time factor: 0.228642
+ UPS: 8734.795652
+Vehicles: 
+ Inserted: 74719 (Loaded: 74795)
+ Running: 47772
+ Waiting: 76
+Teleports: 19345 (Collisions: 68, Jam: 12273, Yield: 6102, Wrong Lane: 902)
+Emergency Stops: 11
+Statistics (avg):
+ RouteLength: 11034.10
+ Speed: 8.33
+ Duration: 1571.21
+ WaitingTime: 680.62
+ TimeLoss: 940.70
+ DepartDelay: 3.78
+
+DijkstraRouter answered 80433 queries and explored 62150.47 edges on average.
+DijkstraRouter spent 16484.51s answering queries (204.95ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4504ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9056ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (55893ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (67ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 24864.36s
+ Real time factor: 0.217219
+ UPS: 8309.056748
+Vehicles: 
+ Inserted: 74112 (Loaded: 74177)
+ Running: 47394
+ Waiting: 65
+Teleports: 15028 (Collisions: 36, Jam: 9250, Yield: 5207, Wrong Lane: 535)
+Emergency Stops: 3
+Statistics (avg):
+ RouteLength: 10766.58
+ Speed: 8.09
+ Duration: 1622.82
+ WaitingTime: 727.59
+ TimeLoss: 990.86
+ DepartDelay: 3.07
+
+DijkstraRouter answered 77637 queries and explored 73625.30 edges on average.
+DijkstraRouter spent 17431.56s answering queries (224.53ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44384ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (50ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10053.24s
+ Real time factor: 0.53724
+ UPS: 8107.546444
+Vehicles: 
+ Inserted: 39217 (Loaded: 39225)
+ Running: 11202
+ Waiting: 8
+Teleports: 4344 (Collisions: 14, Jam: 2620, Yield: 1456, Wrong Lane: 254)
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 14027.70
+ Speed: 10.16
+ Duration: 1563.54
+ WaitingTime: 563.96
+ TimeLoss: 819.53
+ DepartDelay: 2.23
+
+DijkstraRouter answered 39837 queries and explored 57293.47 edges on average.
+DijkstraRouter spent 6607.94s answering queries (165.87ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (42458ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (61ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 12085.81s
+ Real time factor: 0.446888
+ UPS: 7363.088095
+Vehicles: 
+ Inserted: 39455 (Loaded: 39466)
+ Running: 16098
+ Waiting: 11
+Teleports: 6930 (Collisions: 25, Jam: 4498, Yield: 1936, Wrong Lane: 471)
+Emergency Stops: 10
+Statistics (avg):
+ RouteLength: 12526.46
+ Speed: 9.58
+ Duration: 1495.31
+ WaitingTime: 549.71
+ TimeLoss: 805.54
+ DepartDelay: 2.32
+
+DijkstraRouter answered 40145 queries and explored 61901.80 edges on average.
+DijkstraRouter spent 8033.26s answering queries (200.11ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (52910ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (30ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13272.32s
+ Real time factor: 0.406937
+ UPS: 7149.723021
+Vehicles: 
+ Inserted: 39292 (Loaded: 39307)
+ Running: 18279
+ Waiting: 15
+Teleports: 5127 (Collisions: 14, Jam: 3168, Yield: 1698, Wrong Lane: 247)
+Emergency Stops: 12
+Statistics (avg):
+ RouteLength: 12278.09
+ Speed: 9.09
+ Duration: 1580.46
+ WaitingTime: 611.28
+ TimeLoss: 885.66
+ DepartDelay: 1.50
+
+DijkstraRouter answered 39452 queries and explored 73923.45 edges on average.
+DijkstraRouter spent 8727.30s answering queries (221.21ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4695ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (633ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1554.95s
+ Real time factor: 3.47342
+ UPS: 33669.640606
+Vehicles: 
+ Inserted: 20594 (Loaded: 20626)
+ Running: 12378
+ Waiting: 32
+Teleports: 2649 (Jam: 1491, Yield: 1129, Wrong Lane: 29)
+Statistics (avg):
+ RouteLength: 10323.25
+ Speed: 9.80
+ Duration: 1390.21
+ WaitingTime: 582.95
+ TimeLoss: 840.45
+ DepartDelay: 4.59
+
+DijkstraRouter answered 22122 queries and explored 6712.46 edges on average.
+DijkstraRouter spent 383.58s answering queries (17.34ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (9459ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (11ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 25940.93s
+ Real time factor: 0.208204
+ UPS: 7868.322546
+Vehicles: 
+ Inserted: 74882 (Loaded: 74971)
+ Running: 47051
+ Waiting: 89
+Teleports: 17528 (Collisions: 36, Jam: 10936, Yield: 5611, Wrong Lane: 945)
+Statistics (avg):
+ RouteLength: 11665.71
+ Speed: 9.22
+ Duration: 1532.16
+ WaitingTime: 611.78
+ TimeLoss: 865.11
+ DepartDelay: 2.55
+
+DijkstraRouter answered 79482 queries and explored 75435.21 edges on average.
+DijkstraRouter spent 18898.05s answering queries (237.77ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (53723ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (62ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 2177.12s
+ Real time factor: 2.4808
+ UPS: 19591.991629
+Vehicles: 
+ Inserted: 19597 (Loaded: 19613)
+ Running: 8596
+ Waiting: 16
+Teleports: 3050 (Collisions: 4, Jam: 1542, Yield: 1435, Wrong Lane: 69)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12836.62
+ Speed: 10.87
+ Duration: 1432.02
+ WaitingTime: 538.15
+ TimeLoss: 811.27
+ DepartDelay: 3.07
+
+DijkstraRouter answered 20585 queries and explored 12530.27 edges on average.
+DijkstraRouter spent 900.38s answering queries (43.74ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (45502ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (47ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13378.31s
+ Real time factor: 0.403713
+ UPS: 6479.501967
+Vehicles: 
+ Inserted: 39282 (Loaded: 39298)
+ Running: 14171
+ Waiting: 16
+Teleports: 4737 (Collisions: 15, Jam: 2992, Yield: 1553, Wrong Lane: 177)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 14058.34
+ Speed: 10.55
+ Duration: 1534.29
+ WaitingTime: 504.41
+ TimeLoss: 758.41
+ DepartDelay: 1.63
+
+DijkstraRouter answered 40135 queries and explored 75096.89 edges on average.
+DijkstraRouter spent 9347.50s answering queries (232.90ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (43393ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (69ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8406.01s
+ Real time factor: 0.642516
+ UPS: 26795.716041
+Vehicles: 
+ Inserted: 64665 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7186
+Teleports: 22342 (Collisions: 14, Jam: 11206, Yield: 11033, Wrong Lane: 89)
+Statistics (avg):
+ RouteLength: 6274.43
+ Speed: 7.45
+ Duration: 1441.49
+ WaitingTime: 859.97
+ TimeLoss: 1061.91
+ DepartDelay: 13.29
+
+DijkstraRouter answered 251647 queries and explored 6708.29 edges on average.
+DijkstraRouter spent 4322.64s answering queries (17.18ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (53873ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (33ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8761.41s
+ Real time factor: 0.616454
+ UPS: 24931.190496
+Vehicles: 
+ Inserted: 66227 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2271
+Teleports: 33678 (Collisions: 32, Jam: 16276, Yield: 16719, Wrong Lane: 651)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 9021.21
+ Speed: 8.97
+ Duration: 1311.53
+ WaitingTime: 690.29
+ TimeLoss: 849.87
+ DepartDelay: 11.80
+
+DijkstraRouter answered 121399 queries and explored 12336.57 edges on average.
+DijkstraRouter spent 4040.51s answering queries (33.28ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8380.02s
+ Real time factor: 0.644509
+ UPS: 5476.241470
+Vehicles: 
+ Inserted: 21853 (Loaded: 21856)
+ Running: 6980
+ Waiting: 3
+Teleports: 1559 (Collisions: 2, Jam: 940, Yield: 506, Wrong Lane: 111)
+Emergency Stops: 13
+Statistics (avg):
+ RouteLength: 13408.65
+ Speed: 9.68
+ Duration: 1555.51
+ WaitingTime: 535.30
+ TimeLoss: 819.88
+ DepartDelay: 0.88
+
+DijkstraRouter answered 21147 queries and explored 73349.03 edges on average.
+DijkstraRouter spent 5046.10s answering queries (238.62ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4776ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (9245ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (12ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6208.65s
+ Real time factor: 0.869916
+ UPS: 5834.706472
+Vehicles: 
+ Inserted: 21553
+ Running: 2851
+ Waiting: 0
+Teleports: 1475 (Collisions: 7, Jam: 851, Yield: 546, Wrong Lane: 71)
+Statistics (avg):
+ RouteLength: 14704.81
+ Speed: 11.19
+ Duration: 1435.20
+ WaitingTime: 437.90
+ TimeLoss: 673.44
+ DepartDelay: 1.19
+
+DijkstraRouter answered 21305 queries and explored 57096.28 edges on average.
+DijkstraRouter spent 3719.83s answering queries (174.60ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (55595ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (67ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6674.30s
+ Real time factor: 0.809224
+ UPS: 6143.232613
+Vehicles: 
+ Inserted: 21811 (Loaded: 21814)
+ Running: 4866
+ Waiting: 3
+Teleports: 2412 (Collisions: 13, Jam: 1632, Yield: 594, Wrong Lane: 173)
+Emergency Stops: 7
+Statistics (avg):
+ RouteLength: 13403.64
+ Speed: 10.28
+ Duration: 1463.02
+ WaitingTime: 486.83
+ TimeLoss: 740.12
+ DepartDelay: 1.28
+
+DijkstraRouter answered 21490 queries and explored 62001.99 edges on average.
+DijkstraRouter spent 3992.52s answering queries (185.79ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (46894ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (56ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8274.30s
+ Real time factor: 0.652744
+ UPS: 4743.412194
+Vehicles: 
+ Inserted: 21473 (Loaded: 21476)
+ Running: 3991
+ Waiting: 3
+Teleports: 1702 (Collisions: 2, Jam: 1108, Yield: 511, Wrong Lane: 81)
+Statistics (avg):
+ RouteLength: 14864.03
+ Speed: 11.51
+ Duration: 1450.32
+ WaitingTime: 413.36
+ TimeLoss: 647.76
+ DepartDelay: 0.93
+
+DijkstraRouter answered 21636 queries and explored 75295.81 edges on average.
+DijkstraRouter spent 5517.45s answering queries (255.01ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (45038ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (64ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3755.93s
+ Real time factor: 1.43799
+ UPS: 29836.286793
+Vehicles: 
+ Inserted: 36875 (Loaded: 37691)
+ Running: 30000
+ Waiting: 816
+Teleports: 8304 (Collisions: 10, Jam: 4467, Yield: 3764, Wrong Lane: 63)
+Statistics (avg):
+ RouteLength: 8263.90
+ Speed: 8.44
+ Duration: 1467.35
+ WaitingTime: 756.95
+ TimeLoss: 1006.84
+ DepartDelay: 15.60
+
+DijkstraRouter answered 86066 queries and explored 6659.57 edges on average.
+DijkstraRouter spent 1531.71s answering queries (17.80ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 4031.52s
+ Real time factor: 1.33969
+ UPS: 26115.538690
+Vehicles: 
+ Inserted: 35743 (Loaded: 35914)
+ Running: 27571
+ Waiting: 171
+Teleports: 11024 (Collisions: 9, Jam: 5616, Yield: 5018, Wrong Lane: 381)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 10687.55
+ Speed: 9.64
+ Duration: 1418.91
+ WaitingTime: 651.79
+ TimeLoss: 888.71
+ DepartDelay: 5.07
+
+DijkstraRouter answered 42452 queries and explored 12461.43 edges on average.
+DijkstraRouter spent 1568.72s answering queries (36.95ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (52290ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (28ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 19174.21s
+ Real time factor: 0.28168
+ UPS: 10053.153003
+Vehicles: 
+ Inserted: 74519 (Loaded: 74569)
+ Running: 39527
+ Waiting: 50
+Teleports: 13752 (Collisions: 25, Jam: 8589, Yield: 4552, Wrong Lane: 586)
+Statistics (avg):
+ RouteLength: 12680.91
+ Speed: 8.81
+ Duration: 1673.05
+ WaitingTime: 694.63
+ TimeLoss: 978.44
+ DepartDelay: 3.98
+
+DijkstraRouter answered 79507 queries and explored 57301.00 edges on average.
+DijkstraRouter spent 12641.62s answering queries (159.00ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 23590.17s
+ Real time factor: 0.228951
+ UPS: 8750.282544
+Vehicles: 
+ Inserted: 74707 (Loaded: 74795)
+ Running: 47542
+ Waiting: 88
+Teleports: 19112 (Collisions: 60, Jam: 11985, Yield: 6099, Wrong Lane: 968)
+Emergency Stops: 10
+Statistics (avg):
+ RouteLength: 11192.62
+ Speed: 8.41
+ Duration: 1572.11
+ WaitingTime: 670.98
+ TimeLoss: 931.28
+ DepartDelay: 3.79
+
+DijkstraRouter answered 80072 queries and explored 62277.00 edges on average.
+DijkstraRouter spent 16670.43s answering queries (208.19ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4552ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (17ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (8936ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (16ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (53673ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (62ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 24710.38s
+ Real time factor: 0.218572
+ UPS: 8382.104449
+Vehicles: 
+ Inserted: 74122 (Loaded: 74177)
+ Running: 47960
+ Waiting: 55
+Teleports: 16676 (Collisions: 32, Jam: 10337, Yield: 5626, Wrong Lane: 681)
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 10683.52
+ Speed: 8.31
+ Duration: 1555.11
+ WaitingTime: 673.37
+ TimeLoss: 927.69
+ DepartDelay: 2.99
+
+DijkstraRouter answered 77177 queries and explored 73620.03 edges on average.
+DijkstraRouter spent 17248.73s answering queries (223.50ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (45287ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (47ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 11494.05s
+ Real time factor: 0.469895
+ UPS: 7679.545414
+Vehicles: 
+ Inserted: 39447 (Loaded: 39466)
+ Running: 15577
+ Waiting: 19
+Teleports: 6173 (Collisions: 29, Jam: 3946, Yield: 1795, Wrong Lane: 403)
+Emergency Stops: 7
+Statistics (avg):
+ RouteLength: 12617.19
+ Speed: 9.61
+ Duration: 1508.68
+ WaitingTime: 555.62
+ TimeLoss: 814.19
+ DepartDelay: 2.00
+
+DijkstraRouter answered 40228 queries and explored 62047.46 edges on average.
+DijkstraRouter spent 7526.97s answering queries (187.11ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41504ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (67ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10194.47s
+ Real time factor: 0.529797
+ UPS: 7970.028350
+Vehicles: 
+ Inserted: 39220 (Loaded: 39225)
+ Running: 11501
+ Waiting: 5
+Teleports: 4282 (Collisions: 15, Jam: 2561, Yield: 1453, Wrong Lane: 253)
+Statistics (avg):
+ RouteLength: 13958.17
+ Speed: 10.17
+ Duration: 1549.78
+ WaitingTime: 551.91
+ TimeLoss: 808.64
+ DepartDelay: 2.19
+
+DijkstraRouter answered 39673 queries and explored 57186.74 edges on average.
+DijkstraRouter spent 6491.47s answering queries (163.62ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (53603ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (30ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13874.75s
+ Real time factor: 0.389268
+ UPS: 6857.805160
+Vehicles: 
+ Inserted: 39292 (Loaded: 39307)
+ Running: 18743
+ Waiting: 15
+Teleports: 5436 (Collisions: 10, Jam: 3365, Yield: 1827, Wrong Lane: 234)
+Emergency Stops: 11
+Statistics (avg):
+ RouteLength: 12202.80
+ Speed: 9.15
+ Duration: 1554.48
+ WaitingTime: 594.52
+ TimeLoss: 864.31
+ DepartDelay: 1.59
+
+DijkstraRouter answered 39514 queries and explored 73798.97 edges on average.
+DijkstraRouter spent 9148.51s answering queries (231.53ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4815ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 25657.61s
+ Real time factor: 0.210503
+ UPS: 7913.719311
+Vehicles: 
+ Inserted: 74898 (Loaded: 74971)
+ Running: 45879
+ Waiting: 73
+Teleports: 16762 (Collisions: 38, Jam: 10663, Yield: 5289, Wrong Lane: 772)
+Statistics (avg):
+ RouteLength: 11798.02
+ Speed: 9.14
+ Duration: 1564.88
+ WaitingTime: 625.95
+ TimeLoss: 887.31
+ DepartDelay: 2.62
+
+DijkstraRouter answered 79522 queries and explored 75225.97 edges on average.
+DijkstraRouter spent 18597.62s answering queries (233.87ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (9134ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1577.41s
+ Real time factor: 3.42396
+ UPS: 32916.201928
+Vehicles: 
+ Inserted: 20596 (Loaded: 20626)
+ Running: 11839
+ Waiting: 30
+Teleports: 2461 (Collisions: 3, Jam: 1403, Yield: 1016, Wrong Lane: 39)
+Statistics (avg):
+ RouteLength: 10655.25
+ Speed: 9.23
+ Duration: 1538.60
+ WaitingTime: 692.29
+ TimeLoss: 975.51
+ DepartDelay: 4.89
+
+DijkstraRouter answered 22288 queries and explored 6703.19 edges on average.
+DijkstraRouter spent 408.91s answering queries (18.35ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (53511ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (63ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 2099.52s
+ Real time factor: 2.5725
+ UPS: 20245.629828
+Vehicles: 
+ Inserted: 19594 (Loaded: 19613)
+ Running: 8653
+ Waiting: 19
+Teleports: 2858 (Collisions: 3, Jam: 1453, Yield: 1278, Wrong Lane: 124)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12689.08
+ Speed: 10.91
+ Duration: 1419.26
+ WaitingTime: 531.17
+ TimeLoss: 804.46
+ DepartDelay: 3.28
+
+DijkstraRouter answered 20766 queries and explored 12500.64 edges on average.
+DijkstraRouter spent 826.94s answering queries (39.82ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (46591ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (53ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13713.16s
+ Real time factor: 0.393855
+ UPS: 6321.053108
+Vehicles: 
+ Inserted: 39281 (Loaded: 39298)
+ Running: 14495
+ Waiting: 17
+Teleports: 4918 (Collisions: 22, Jam: 3048, Yield: 1651, Wrong Lane: 197)
+Statistics (avg):
+ RouteLength: 13906.90
+ Speed: 10.64
+ Duration: 1505.84
+ WaitingTime: 490.90
+ TimeLoss: 737.35
+ DepartDelay: 1.63
+
+DijkstraRouter answered 40098 queries and explored 75110.04 edges on average.
+DijkstraRouter spent 9639.36s answering queries (240.39ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (42211ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (63ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8841.62s
+ Real time factor: 0.610861
+ UPS: 25443.797077
+Vehicles: 
+ Inserted: 64799 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7052
+Teleports: 21780 (Collisions: 17, Jam: 11072, Yield: 10609, Wrong Lane: 82)
+Statistics (avg):
+ RouteLength: 6424.45
+ Speed: 7.51
+ Duration: 1458.97
+ WaitingTime: 878.16
+ TimeLoss: 1074.09
+ DepartDelay: 11.51
+
+DijkstraRouter answered 248993 queries and explored 6709.15 edges on average.
+DijkstraRouter spent 4702.52s answering queries (18.89ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 9137.32s
+ Real time factor: 0.591092
+ UPS: 23921.500212
+Vehicles: 
+ Inserted: 65988 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2510
+Teleports: 33209 (Collisions: 28, Jam: 16067, Yield: 16604, Wrong Lane: 510)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 9085.18
+ Speed: 8.98
+ Duration: 1304.93
+ WaitingTime: 670.65
+ TimeLoss: 844.22
+ DepartDelay: 8.50
+
+DijkstraRouter answered 124895 queries and explored 12365.59 edges on average.
+DijkstraRouter spent 4361.89s answering queries (34.92ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4513ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (735ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (53311ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (29ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3411.09s
+ Real time factor: 1.58336
+ UPS: 32817.314754
+Vehicles: 
+ Inserted: 36935 (Loaded: 37691)
+ Running: 30000
+ Waiting: 756
+Teleports: 8655 (Collisions: 12, Jam: 4683, Yield: 3892, Wrong Lane: 68)
+Statistics (avg):
+ RouteLength: 8378.21
+ Speed: 8.55
+ Duration: 1439.29
+ WaitingTime: 730.67
+ TimeLoss: 970.85
+ DepartDelay: 13.73
+
+DijkstraRouter answered 80139 queries and explored 6649.35 edges on average.
+DijkstraRouter spent 1322.84s answering queries (16.51ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7094.06s
+ Real time factor: 0.761341
+ UPS: 5779.279566
+Vehicles: 
+ Inserted: 21810 (Loaded: 21814)
+ Running: 4977
+ Waiting: 4
+Teleports: 2357 (Collisions: 12, Jam: 1556, Yield: 591, Wrong Lane: 198)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 13427.13
+ Speed: 10.24
+ Duration: 1470.18
+ WaitingTime: 490.66
+ TimeLoss: 745.92
+ DepartDelay: 1.18
+
+DijkstraRouter answered 21607 queries and explored 61762.30 edges on average.
+DijkstraRouter spent 4317.20s answering queries (199.81ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6360.69s
+ Real time factor: 0.849122
+ UPS: 5634.464128
+Vehicles: 
+ Inserted: 21553
+ Running: 2625
+ Waiting: 0
+Teleports: 1230 (Collisions: 3, Jam: 699, Yield: 453, Wrong Lane: 75)
+Statistics (avg):
+ RouteLength: 14779.00
+ Speed: 11.28
+ Duration: 1426.10
+ WaitingTime: 425.54
+ TimeLoss: 661.49
+ DepartDelay: 1.11
+
+DijkstraRouter answered 21360 queries and explored 57194.65 edges on average.
+DijkstraRouter spent 3837.14s answering queries (179.64ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9221ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (43677ms).
+done (56438ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (51ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (74ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8647.77s
+ Real time factor: 0.624554
+ UPS: 5289.188989
+Vehicles: 
+ Inserted: 21855 (Loaded: 21856)
+ Running: 6689
+ Waiting: 1
+Teleports: 1587 (Collisions: 6, Jam: 913, Yield: 562, Wrong Lane: 106)
+Emergency Stops: 12
+Statistics (avg):
+ RouteLength: 13506.87
+ Speed: 9.61
+ Duration: 1582.26
+ WaitingTime: 550.30
+ TimeLoss: 841.28
+ DepartDelay: 1.01
+
+DijkstraRouter answered 21204 queries and explored 73389.78 edges on average.
+DijkstraRouter spent 5253.15s answering queries (247.74ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8173.50s
+ Real time factor: 0.660794
+ UPS: 4827.963967
+Vehicles: 
+ Inserted: 21474 (Loaded: 21476)
+ Running: 4201
+ Waiting: 2
+Teleports: 1732 (Collisions: 1, Jam: 1108, Yield: 550, Wrong Lane: 73)
+Statistics (avg):
+ RouteLength: 14789.50
+ Speed: 11.53
+ Duration: 1439.22
+ WaitingTime: 410.08
+ TimeLoss: 641.45
+ DepartDelay: 1.00
+
+DijkstraRouter answered 21649 queries and explored 75163.72 edges on average.
+DijkstraRouter spent 5290.66s answering queries (244.38ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (42174ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (58ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (55043ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (30ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 4116.72s
+ Real time factor: 1.31197
+ UPS: 25405.413783
+Vehicles: 
+ Inserted: 35726 (Loaded: 35914)
+ Running: 27467
+ Waiting: 188
+Teleports: 10719 (Collisions: 6, Jam: 5516, Yield: 4839, Wrong Lane: 358)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 10621.93
+ Speed: 9.67
+ Duration: 1366.02
+ WaitingTime: 611.87
+ TimeLoss: 841.17
+ DepartDelay: 6.16
+
+DijkstraRouter answered 42821 queries and explored 12488.05 edges on average.
+DijkstraRouter spent 1555.48s answering queries (36.33ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 19926.64s
+ Real time factor: 0.271044
+ UPS: 9662.771296
+Vehicles: 
+ Inserted: 74504 (Loaded: 74569)
+ Running: 39576
+ Waiting: 65
+Teleports: 13182 (Collisions: 32, Jam: 7993, Yield: 4570, Wrong Lane: 587)
+Statistics (avg):
+ RouteLength: 12637.30
+ Speed: 8.77
+ Duration: 1679.41
+ WaitingTime: 696.55
+ TimeLoss: 984.37
+ DepartDelay: 3.94
+
+DijkstraRouter answered 80248 queries and explored 57513.63 edges on average.
+DijkstraRouter spent 13345.16s answering queries (166.30ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 22447.56s
+ Real time factor: 0.240605
+ UPS: 9143.190962
+Vehicles: 
+ Inserted: 74727 (Loaded: 74795)
+ Running: 46797
+ Waiting: 68
+Teleports: 18445 (Collisions: 49, Jam: 11556, Yield: 5937, Wrong Lane: 903)
+Emergency Stops: 10
+Statistics (avg):
+ RouteLength: 11318.14
+ Speed: 8.31
+ Duration: 1612.22
+ WaitingTime: 699.13
+ TimeLoss: 966.89
+ DepartDelay: 3.89
+
+DijkstraRouter answered 80120 queries and explored 62118.01 edges on average.
+DijkstraRouter spent 15478.51s answering queries (193.19ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4440ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9541ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (54123ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (67ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 25374.47s
+ Real time factor: 0.212852
+ UPS: 8146.095556
+Vehicles: 
+ Inserted: 74111 (Loaded: 74177)
+ Running: 47928
+ Waiting: 66
+Teleports: 16579 (Collisions: 31, Jam: 10274, Yield: 5655, Wrong Lane: 619)
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 10681.30
+ Speed: 8.26
+ Duration: 1561.58
+ WaitingTime: 678.73
+ TimeLoss: 933.77
+ DepartDelay: 3.11
+
+DijkstraRouter answered 77882 queries and explored 73614.33 edges on average.
+DijkstraRouter spent 17761.53s answering queries (228.06ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44355ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (50ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 11785.34s
+ Real time factor: 0.458281
+ UPS: 7482.722354
+Vehicles: 
+ Inserted: 39443 (Loaded: 39466)
+ Running: 15340
+ Waiting: 23
+Teleports: 6019 (Collisions: 24, Jam: 3953, Yield: 1705, Wrong Lane: 337)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12634.94
+ Speed: 9.57
+ Duration: 1515.93
+ WaitingTime: 556.95
+ TimeLoss: 819.75
+ DepartDelay: 1.95
+
+DijkstraRouter answered 40151 queries and explored 62075.78 edges on average.
+DijkstraRouter spent 7747.21s answering queries (192.95ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41609ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (60ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13909.72s
+ Real time factor: 0.38829
+ UPS: 6871.925900
+Vehicles: 
+ Inserted: 39288 (Loaded: 39307)
+ Running: 18786
+ Waiting: 19
+Teleports: 5624 (Collisions: 13, Jam: 3453, Yield: 1897, Wrong Lane: 261)
+Emergency Stops: 13
+Statistics (avg):
+ RouteLength: 12166.17
+ Speed: 9.15
+ Duration: 1557.25
+ WaitingTime: 600.74
+ TimeLoss: 866.66
+ DepartDelay: 1.41
+
+DijkstraRouter answered 39477 queries and explored 73620.34 edges on average.
+DijkstraRouter spent 9071.78s answering queries (229.80ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (53945ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (28ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10890.40s
+ Real time factor: 0.495941
+ UPS: 7408.964960
+Vehicles: 
+ Inserted: 39223 (Loaded: 39225)
+ Running: 10516
+ Waiting: 2
+Teleports: 3894 (Collisions: 20, Jam: 2288, Yield: 1358, Wrong Lane: 228)
+Statistics (avg):
+ RouteLength: 14275.91
+ Speed: 10.21
+ Duration: 1571.17
+ WaitingTime: 556.59
+ TimeLoss: 817.53
+ DepartDelay: 2.05
+
+DijkstraRouter answered 39726 queries and explored 57189.35 edges on average.
+DijkstraRouter spent 6981.45s answering queries (175.74ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4698ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 25658.00s
+ Real time factor: 0.2105
+ UPS: 7879.307916
+Vehicles: 
+ Inserted: 74897 (Loaded: 74971)
+ Running: 45729
+ Waiting: 74
+Teleports: 16610 (Collisions: 38, Jam: 10531, Yield: 5314, Wrong Lane: 727)
+Statistics (avg):
+ RouteLength: 11881.76
+ Speed: 9.25
+ Duration: 1552.77
+ WaitingTime: 620.22
+ TimeLoss: 874.12
+ DepartDelay: 3.07
+
+DijkstraRouter answered 79577 queries and explored 75323.64 edges on average.
+DijkstraRouter spent 18677.81s answering queries (234.71ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... done (8858ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1618.54s
+ Real time factor: 3.33696
+ UPS: 32900.563532
+Vehicles: 
+ Inserted: 20594 (Loaded: 20626)
+ Running: 12452
+ Waiting: 32
+Teleports: 2615 (Collisions: 4, Jam: 1406, Yield: 1151, Wrong Lane: 54)
+Statistics (avg):
+ RouteLength: 10322.14
+ Speed: 9.36
+ Duration: 1498.16
+ WaitingTime: 670.90
+ TimeLoss: 945.98
+ DepartDelay: 3.60
+
+DijkstraRouter answered 22257 queries and explored 6713.63 edges on average.
+DijkstraRouter spent 413.90s answering queries (18.60ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (52605ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (64ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 1969.67s
+ Real time factor: 2.74208
+ UPS: 21174.023060
+Vehicles: 
+ Inserted: 19595 (Loaded: 19613)
+ Running: 7935
+ Waiting: 18
+Teleports: 2317 (Collisions: 1, Jam: 1074, Yield: 1101, Wrong Lane: 141)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 12841.73
+ Speed: 10.60
+ Duration: 1473.63
+ WaitingTime: 560.91
+ TimeLoss: 849.70
+ DepartDelay: 3.67
+
+DijkstraRouter answered 20538 queries and explored 12517.28 edges on average.
+DijkstraRouter spent 785.93s answering queries (38.27ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44537ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (70ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13759.14s
+ Real time factor: 0.392539
+ UPS: 6297.946660
+Vehicles: 
+ Inserted: 39286 (Loaded: 39298)
+ Running: 14340
+ Waiting: 12
+Teleports: 4827 (Collisions: 19, Jam: 2993, Yield: 1647, Wrong Lane: 168)
+Statistics (avg):
+ RouteLength: 13915.23
+ Speed: 10.62
+ Duration: 1503.31
+ WaitingTime: 483.88
+ TimeLoss: 731.46
+ DepartDelay: 1.84
+
+DijkstraRouter answered 40148 queries and explored 75076.21 edges on average.
+DijkstraRouter spent 9688.84s answering queries (241.33ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41022ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (61ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8735.37s
+ Real time factor: 0.618291
+ UPS: 25789.414409
+Vehicles: 
+ Inserted: 64533 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7318
+Teleports: 22454 (Collisions: 14, Jam: 11272, Yield: 11072, Wrong Lane: 96)
+Statistics (avg):
+ RouteLength: 6147.14
+ Speed: 7.50
+ Duration: 1390.14
+ WaitingTime: 835.27
+ TimeLoss: 1021.66
+ DepartDelay: 12.70
+
+DijkstraRouter answered 253891 queries and explored 6690.40 edges on average.
+DijkstraRouter spent 4559.13s answering queries (17.96ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 9404.98s
+ Real time factor: 0.57427
+ UPS: 23254.127173
+Vehicles: 
+ Inserted: 66029 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2469
+Teleports: 33948 (Collisions: 33, Jam: 16265, Yield: 16889, Wrong Lane: 761)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 8684.63
+ Speed: 8.78
+ Duration: 1330.31
+ WaitingTime: 719.88
+ TimeLoss: 879.25
+ DepartDelay: 9.95
+
+DijkstraRouter answered 124992 queries and explored 12365.89 edges on average.
+DijkstraRouter spent 4564.93s answering queries (36.52ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4622ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (15ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (55861ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (460ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 3588.81s
+ Real time factor: 1.50496
+ UPS: 31259.661353
+Vehicles: 
+ Inserted: 36844 (Loaded: 37691)
+ Running: 30000
+ Waiting: 847
+Teleports: 8447 (Collisions: 12, Jam: 4615, Yield: 3757, Wrong Lane: 63)
+Statistics (avg):
+ RouteLength: 8332.77
+ Speed: 8.67
+ Duration: 1444.58
+ WaitingTime: 749.49
+ TimeLoss: 978.90
+ DepartDelay: 17.87
+
+DijkstraRouter answered 87871 queries and explored 6668.76 edges on average.
+DijkstraRouter spent 1490.07s answering queries (16.96ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 6545.63s
+ Real time factor: 0.82513
+ UPS: 5458.098024
+Vehicles: 
+ Inserted: 21551 (Loaded: 21553)
+ Running: 2498
+ Waiting: 2
+Teleports: 1314 (Collisions: 7, Jam: 786, Yield: 438, Wrong Lane: 83)
+Statistics (avg):
+ RouteLength: 14748.38
+ Speed: 11.21
+ Duration: 1434.34
+ WaitingTime: 432.03
+ TimeLoss: 670.39
+ DepartDelay: 0.96
+
+DijkstraRouter answered 21301 queries and explored 57219.42 edges on average.
+DijkstraRouter spent 4056.40s answering queries (190.43ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 7272.43s
+ Real time factor: 0.742668
+ UPS: 5644.343668
+Vehicles: 
+ Inserted: 21809 (Loaded: 21814)
+ Running: 4790
+ Waiting: 5
+Teleports: 2432 (Collisions: 9, Jam: 1633, Yield: 620, Wrong Lane: 170)
+Emergency Stops: 7
+Statistics (avg):
+ RouteLength: 13485.50
+ Speed: 10.27
+ Duration: 1467.28
+ WaitingTime: 484.43
+ TimeLoss: 740.80
+ DepartDelay: 1.15
+
+DijkstraRouter answered 21570 queries and explored 61836.93 edges on average.
+DijkstraRouter spent 4469.24s answering queries (207.20ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9079ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (44724ms).
+done (54326ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (51ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (75ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8649.40s
+ Real time factor: 0.624436
+ UPS: 5247.113384
+Vehicles: 
+ Inserted: 21854 (Loaded: 21856)
+ Running: 6468
+ Waiting: 2
+Teleports: 1328 (Collisions: 6, Jam: 726, Yield: 504, Wrong Lane: 92)
+Emergency Stops: 12
+Statistics (avg):
+ RouteLength: 13616.84
+ Speed: 9.66
+ Duration: 1578.69
+ WaitingTime: 542.83
+ TimeLoss: 832.68
+ DepartDelay: 1.07
+
+DijkstraRouter answered 21182 queries and explored 73349.91 edges on average.
+DijkstraRouter spent 5346.24s answering queries (252.40ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8099.27s
+ Real time factor: 0.66685
+ UPS: 4896.675009
+Vehicles: 
+ Inserted: 21472 (Loaded: 21476)
+ Running: 4542
+ Waiting: 4
+Teleports: 1936 (Collisions: 6, Jam: 1228, Yield: 627, Wrong Lane: 75)
+Statistics (avg):
+ RouteLength: 14720.93
+ Speed: 11.60
+ Duration: 1423.29
+ WaitingTime: 403.75
+ TimeLoss: 629.82
+ DepartDelay: 0.88
+
+DijkstraRouter answered 21673 queries and explored 75168.38 edges on average.
+DijkstraRouter spent 5305.05s answering queries (244.78ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (43650ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (62ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (54801ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (30ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 4134.97s
+ Real time factor: 1.30618
+ UPS: 25423.953983
+Vehicles: 
+ Inserted: 35721 (Loaded: 35914)
+ Running: 27472
+ Waiting: 193
+Teleports: 11024 (Collisions: 6, Jam: 5674, Yield: 5054, Wrong Lane: 290)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 10860.61
+ Speed: 9.50
+ Duration: 1444.90
+ WaitingTime: 667.34
+ TimeLoss: 911.59
+ DepartDelay: 6.31
+
+DijkstraRouter answered 42740 queries and explored 12475.05 edges on average.
+DijkstraRouter spent 1607.61s answering queries (37.61ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 20940.99s
+ Real time factor: 0.257915
+ UPS: 9151.778013
+Vehicles: 
+ Inserted: 74529 (Loaded: 74569)
+ Running: 38972
+ Waiting: 40
+Teleports: 12822 (Collisions: 28, Jam: 7753, Yield: 4348, Wrong Lane: 693)
+Statistics (avg):
+ RouteLength: 12912.59
+ Speed: 8.86
+ Duration: 1693.38
+ WaitingTime: 695.08
+ TimeLoss: 989.13
+ DepartDelay: 3.60
+
+DijkstraRouter answered 79193 queries and explored 57143.28 edges on average.
+DijkstraRouter spent 14322.89s answering queries (180.86ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 23186.34s
+ Real time factor: 0.232939
+ UPS: 8889.792831
+Vehicles: 
+ Inserted: 74699 (Loaded: 74795)
+ Running: 47763
+ Waiting: 96
+Teleports: 19402 (Collisions: 64, Jam: 12186, Yield: 6125, Wrong Lane: 1027)
+Emergency Stops: 9
+Statistics (avg):
+ RouteLength: 11216.45
+ Speed: 8.48
+ Duration: 1553.30
+ WaitingTime: 655.50
+ TimeLoss: 913.93
+ DepartDelay: 3.66
+
+DijkstraRouter answered 81031 queries and explored 62091.65 edges on average.
+DijkstraRouter spent 16117.22s answering queries (198.90ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_1.net.xml' ... done (4489ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_1.add.xml' ... done (14ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_2.net.xml' ... Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_3.net.xml' ... done (9208ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_2.add.xml' ... done (13ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+done (52624ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_3.add.xml' ... done (67ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 11860.81s
+ Real time factor: 0.455365
+ UPS: 7559.842392
+Vehicles: 
+ Inserted: 39449 (Loaded: 39466)
+ Running: 16188
+ Waiting: 17
+Teleports: 6967 (Collisions: 14, Jam: 4554, Yield: 1972, Wrong Lane: 427)
+Emergency Stops: 8
+Statistics (avg):
+ RouteLength: 12604.19
+ Speed: 9.63
+ Duration: 1498.40
+ WaitingTime: 549.61
+ TimeLoss: 803.01
+ DepartDelay: 1.65
+
+DijkstraRouter answered 40132 queries and explored 61972.15 edges on average.
+DijkstraRouter spent 7794.87s answering queries (194.23ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_4.net.xml' ... done (43937ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_4.add.xml' ... done (55ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 26698.17s
+ Real time factor: 0.202298
+ UPS: 7739.752856
+Vehicles: 
+ Inserted: 74107 (Loaded: 74177)
+ Running: 47646
+ Waiting: 70
+Teleports: 16313 (Collisions: 35, Jam: 10121, Yield: 5571, Wrong Lane: 586)
+Emergency Stops: 2
+Statistics (avg):
+ RouteLength: 10814.64
+ Speed: 8.25
+ Duration: 1577.92
+ WaitingTime: 683.57
+ TimeLoss: 942.33
+ DepartDelay: 2.98
+
+DijkstraRouter answered 77671 queries and explored 73494.92 edges on average.
+DijkstraRouter spent 19136.26s answering queries (246.38ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_5.net.xml' ... done (41262ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_5.add.xml' ... done (59ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 10895.44s
+ Real time factor: 0.495712
+ UPS: 7454.235041
+Vehicles: 
+ Inserted: 39216 (Loaded: 39225)
+ Running: 10967
+ Waiting: 9
+Teleports: 4308 (Collisions: 18, Jam: 2546, Yield: 1499, Wrong Lane: 245)
+Emergency Stops: 1
+Statistics (avg):
+ RouteLength: 14175.93
+ Speed: 10.16
+ Duration: 1572.02
+ WaitingTime: 561.64
+ TimeLoss: 822.39
+ DepartDelay: 2.04
+
+DijkstraRouter answered 39816 queries and explored 57021.55 edges on average.
+DijkstraRouter spent 7067.94s answering queries (177.52ms on average).
+Loading configuration ... done.
+Loading net-file from '/home/israel.vasconcelos@laccan.net/maps/sp_bbox_6.net.xml' ... done (54691ms).
+Loading additional-files from '/home/israel.vasconcelos@laccan.net/maps/osm_stops_6.add.xml' ... done (34ms).
+Loading done.
+Simulation version v1_8_0+0346-debec09 started with time: 0.00
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 13819.03s
+ Real time factor: 0.390838
+ UPS: 6890.775949
+Vehicles: 
+ Inserted: 39292 (Loaded: 39307)
+ Running: 18667
+ Waiting: 15
+Teleports: 5459 (Collisions: 18, Jam: 3324, Yield: 1875, Wrong Lane: 242)
+Emergency Stops: 16
+Statistics (avg):
+ RouteLength: 12168.26
+ Speed: 9.08
+ Duration: 1563.14
+ WaitingTime: 605.02
+ TimeLoss: 871.79
+ DepartDelay: 1.38
+
+DijkstraRouter answered 39438 queries and explored 73765.99 edges on average.
+DijkstraRouter spent 8992.83s answering queries (228.02ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 26657.96s
+ Real time factor: 0.202604
+ UPS: 7609.321020
+Vehicles: 
+ Inserted: 74874 (Loaded: 74971)
+ Running: 45966
+ Waiting: 97
+Teleports: 16998 (Collisions: 29, Jam: 10678, Yield: 5460, Wrong Lane: 831)
+Statistics (avg):
+ RouteLength: 11802.40
+ Speed: 9.24
+ Duration: 1535.03
+ WaitingTime: 604.51
+ TimeLoss: 860.27
+ DepartDelay: 2.65
+
+DijkstraRouter answered 79579 queries and explored 75387.34 edges on average.
+DijkstraRouter spent 19576.60s answering queries (246.00ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 14387.93s
+ Real time factor: 0.375384
+ UPS: 5974.440314
+Vehicles: 
+ Inserted: 39283 (Loaded: 39298)
+ Running: 14071
+ Waiting: 15
+Teleports: 4762 (Collisions: 19, Jam: 3041, Yield: 1518, Wrong Lane: 184)
+Statistics (avg):
+ RouteLength: 13969.31
+ Speed: 10.67
+ Duration: 1495.50
+ WaitingTime: 474.49
+ TimeLoss: 725.43
+ DepartDelay: 1.78
+
+DijkstraRouter answered 40128 queries and explored 75104.80 edges on average.
+DijkstraRouter spent 10297.25s answering queries (256.61ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 8557.00s
+ Real time factor: 0.631179
+ UPS: 26292.391142
+Vehicles: 
+ Inserted: 64635 (Loaded: 71851)
+ Running: 60000
+ Waiting: 7216
+Teleports: 23771 (Collisions: 25, Jam: 12087, Yield: 11572, Wrong Lane: 87)
+Statistics (avg):
+ RouteLength: 6287.79
+ Speed: 7.53
+ Duration: 1433.10
+ WaitingTime: 872.30
+ TimeLoss: 1055.62
+ DepartDelay: 11.33
+
+DijkstraRouter answered 248909 queries and explored 6707.19 edges on average.
+DijkstraRouter spent 4392.38s answering queries (17.65ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 9164.50s
+ Real time factor: 0.589339
+ UPS: 23849.668973
+Vehicles: 
+ Inserted: 66052 (Loaded: 68498)
+ Running: 60000
+ Waiting: 2446
+Teleports: 33577 (Collisions: 27, Jam: 16317, Yield: 16700, Wrong Lane: 533)
+Emergency Stops: 6
+Statistics (avg):
+ RouteLength: 8702.15
+ Speed: 8.80
+ Duration: 1319.84
+ WaitingTime: 708.92
+ TimeLoss: 867.90
+ DepartDelay: 11.02
+
+DijkstraRouter answered 124090 queries and explored 12357.67 edges on average.
+DijkstraRouter spent 4432.79s answering queries (35.72ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 19378.71s
+ Real time factor: 0.278708
+ UPS: 9895.045732
+Vehicles: 
+ Inserted: 74522 (Loaded: 74569)
+ Running: 39149
+ Waiting: 47
+Teleports: 13369 (Collisions: 24, Jam: 8079, Yield: 4491, Wrong Lane: 775)
+Statistics (avg):
+ RouteLength: 12633.64
+ Speed: 8.84
+ Duration: 1660.01
+ WaitingTime: 683.76
+ TimeLoss: 965.58
+ DepartDelay: 3.79
+
+DijkstraRouter answered 79709 queries and explored 57245.49 edges on average.
+DijkstraRouter spent 13125.44s answering queries (164.67ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 21727.99s
+ Real time factor: 0.248573
+ UPS: 9504.492983
+Vehicles: 
+ Inserted: 74715 (Loaded: 74795)
+ Running: 47810
+ Waiting: 80
+Teleports: 18249 (Collisions: 59, Jam: 11406, Yield: 5903, Wrong Lane: 881)
+Emergency Stops: 21
+Statistics (avg):
+ RouteLength: 11044.06
+ Speed: 8.36
+ Duration: 1570.77
+ WaitingTime: 681.25
+ TimeLoss: 939.48
+ DepartDelay: 3.79
+
+DijkstraRouter answered 80228 queries and explored 62017.50 edges on average.
+DijkstraRouter spent 15264.18s answering queries (190.26ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 23874.41s
+ Real time factor: 0.226226
+ UPS: 8651.142525
+Vehicles: 
+ Inserted: 74110 (Loaded: 74177)
+ Running: 47828
+ Waiting: 67
+Teleports: 17395 (Collisions: 31, Jam: 10827, Yield: 5868, Wrong Lane: 669)
+Emergency Stops: 4
+Statistics (avg):
+ RouteLength: 10821.48
+ Speed: 8.26
+ Duration: 1577.71
+ WaitingTime: 682.72
+ TimeLoss: 941.92
+ DepartDelay: 3.03
+
+DijkstraRouter answered 77902 queries and explored 73542.92 edges on average.
+DijkstraRouter spent 16949.58s answering queries (217.58ms on average).
+Simulation ended at time: 5401.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 24532.37s
+ Real time factor: 0.220158
+ UPS: 8276.443310
+Vehicles: 
+ Inserted: 74887 (Loaded: 74971)
+ Running: 45915
+ Waiting: 84
+Teleports: 17441 (Collisions: 34, Jam: 11153, Yield: 5403, Wrong Lane: 851)
+Statistics (avg):
+ RouteLength: 11989.71
+ Speed: 9.28
+ Duration: 1546.57
+ WaitingTime: 604.51
+ TimeLoss: 862.56
+ DepartDelay: 2.71
+
+DijkstraRouter answered 79550 queries and explored 75203.01 edges on average.
+DijkstraRouter spent 18185.30s answering queries (228.60ms on average).
